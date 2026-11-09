@@ -1,0 +1,22 @@
+{
+  "id": "cc-weather-daynight",
+  "version": "1.31.1",
+  "title": "CrossCode Enhanced",
+  "description": "Brings CrossCode's world to life: day and night, weather, seasons and the moon; true-scale maps and a minimap; monster cards and companions, orbs, trials, rifts, dungeon replays, five skill circuits, medals, a hideout, the Pocket Forge and Card Fusion; and a gold restyle of the menus and HUD.",
+  "repository": "https://github.com/YOUR-GITHUB-NAME/crosscode-enhanced",
+  "tags": [
+    "QoL",
+    "cosmetic",
+    "dungeon",
+    "boss",
+    "fun"
+  ],
+  "authors": [
+    "YOUR-GITHUB-NAME"
+  ],
+  "icons": {
+    "24": "icon.png"
+  },
+  "prestart": "prestart.js",
+  "poststart": "poststart.js"
+}
