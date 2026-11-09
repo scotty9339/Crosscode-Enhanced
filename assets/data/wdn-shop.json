@@ -1,0 +1,6197 @@
+{
+ "items": [
+  {
+   "wdnKey": "aurumEdge",
+   "wdnShop": {
+    "page": "gear",
+    "price": 950000,
+    "medal": "Enhanced",
+    "set": "aurum"
+   },
+   "name": {
+    "en_US": "Aurum Edge",
+    "de_DE": "Aurum Edge",
+    "fr_FR": "Aurum Edge",
+    "zh_CN": "Aurum Edge",
+    "zh_TW": "Aurum Edge",
+    "ja_JP": "Aurum Edge",
+    "ko_KR": "Aurum Edge"
+   },
+   "description": {
+    "en_US": "A gilded blade forged from every point the mod ever gave you.",
+    "de_DE": "A gilded blade forged from every point the mod ever gave you.",
+    "fr_FR": "A gilded blade forged from every point the mod ever gave you.",
+    "zh_CN": "A gilded blade forged from every point the mod ever gave you.",
+    "zh_TW": "A gilded blade forged from every point the mod ever gave you.",
+    "ja_JP": "A gilded blade forged from every point the mod ever gave you.",
+    "ko_KR": "A gilded blade forged from every point the mod ever gave you."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 4,
+   "level": 60,
+   "cost": 95000,
+   "order": 300,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 138,
+    "defense": 58
+   },
+   "properties": {
+    "MELEE_DMG": 1.2,
+    "CRITICAL_DMG": 1.3
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "aurumCirclet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 950000,
+    "medal": "Star Gazer",
+    "set": "aurum"
+   },
+   "name": {
+    "en_US": "Aurum Circlet",
+    "de_DE": "Aurum Circlet",
+    "fr_FR": "Aurum Circlet",
+    "zh_CN": "Aurum Circlet",
+    "zh_TW": "Aurum Circlet",
+    "ja_JP": "Aurum Circlet",
+    "ko_KR": "Aurum Circlet"
+   },
+   "description": {
+    "en_US": "A circlet of hammered gold set with a star for every one you earned.",
+    "de_DE": "A circlet of hammered gold set with a star for every one you earned.",
+    "fr_FR": "A circlet of hammered gold set with a star for every one you earned.",
+    "zh_CN": "A circlet of hammered gold set with a star for every one you earned.",
+    "zh_TW": "A circlet of hammered gold set with a star for every one you earned.",
+    "ja_JP": "A circlet of hammered gold set with a star for every one you earned.",
+    "ko_KR": "A circlet of hammered gold set with a star for every one you earned."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 4,
+   "level": 60,
+   "cost": 95000,
+   "order": 301,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 9,
+    "focus": 197
+   },
+   "properties": {
+    "AIM_SPEED": 1.2,
+    "XP_PLUS": 1.15
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "aurumMantle",
+   "wdnShop": {
+    "page": "gear",
+    "price": 950000,
+    "medal": "Home Turf",
+    "set": "aurum"
+   },
+   "name": {
+    "en_US": "Aurum Mantle",
+    "de_DE": "Aurum Mantle",
+    "fr_FR": "Aurum Mantle",
+    "zh_CN": "Aurum Mantle",
+    "zh_TW": "Aurum Mantle",
+    "ja_JP": "Aurum Mantle",
+    "ko_KR": "Aurum Mantle"
+   },
+   "description": {
+    "en_US": "Gold thread over steel: worn by those who call every area home.",
+    "de_DE": "Gold thread over steel: worn by those who call every area home.",
+    "fr_FR": "Gold thread over steel: worn by those who call every area home.",
+    "zh_CN": "Gold thread over steel: worn by those who call every area home.",
+    "zh_TW": "Gold thread over steel: worn by those who call every area home.",
+    "ja_JP": "Gold thread over steel: worn by those who call every area home.",
+    "ko_KR": "Gold thread over steel: worn by those who call every area home."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 4,
+   "level": 60,
+   "cost": 95000,
+   "order": 302,
+   "params": {
+    "elemFactor": [
+     1.1,
+     1.1,
+     1.1,
+     1.1
+    ],
+    "hp": 1427,
+    "defense": 47
+   },
+   "properties": {
+    "HP_REGEN": 1.25,
+    "GUARD_STRENGTH": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "aurumGreaves",
+   "wdnShop": {
+    "page": "gear",
+    "price": 950000,
+    "medal": "Perk Collector",
+    "set": "aurum"
+   },
+   "name": {
+    "en_US": "Aurum Greaves",
+    "de_DE": "Aurum Greaves",
+    "fr_FR": "Aurum Greaves",
+    "zh_CN": "Aurum Greaves",
+    "zh_TW": "Aurum Greaves",
+    "ja_JP": "Aurum Greaves",
+    "ko_KR": "Aurum Greaves"
+   },
+   "description": {
+    "en_US": "Light golden greaves that hum with every perk you've taken.",
+    "de_DE": "Light golden greaves that hum with every perk you've taken.",
+    "fr_FR": "Light golden greaves that hum with every perk you've taken.",
+    "zh_CN": "Light golden greaves that hum with every perk you've taken.",
+    "zh_TW": "Light golden greaves that hum with every perk you've taken.",
+    "ja_JP": "Light golden greaves that hum with every perk you've taken.",
+    "ko_KR": "Light golden greaves that hum with every perk you've taken."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 4,
+   "level": 60,
+   "cost": 95000,
+   "order": 303,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 936,
+    "defense": 26,
+    "focus": 91
+   },
+   "properties": {
+    "DASH_INVINC": 1.3,
+    "SP_REGEN": 1.15
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "stormSaber",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Storm Watcher",
+    "set": "storm"
+   },
+   "name": {
+    "en_US": "Stormcaller Saber",
+    "de_DE": "Stormcaller Saber",
+    "fr_FR": "Stormcaller Saber",
+    "zh_CN": "Stormcaller Saber",
+    "zh_TW": "Stormcaller Saber",
+    "ja_JP": "Stormcaller Saber",
+    "ko_KR": "Stormcaller Saber"
+   },
+   "description": {
+    "en_US": "Forged in a Tempest: the edge crackles whenever the sky opens.",
+    "de_DE": "Forged in a Tempest: the edge crackles whenever the sky opens.",
+    "fr_FR": "Forged in a Tempest: the edge crackles whenever the sky opens.",
+    "zh_CN": "Forged in a Tempest: the edge crackles whenever the sky opens.",
+    "zh_TW": "Forged in a Tempest: the edge crackles whenever the sky opens.",
+    "ja_JP": "Forged in a Tempest: the edge crackles whenever the sky opens.",
+    "ko_KR": "Forged in a Tempest: the edge crackles whenever the sky opens."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 304,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 99,
+    "focus": 101
+   },
+   "properties": {
+    "CRITICAL_DMG": 1.4,
+    "KNOCKBACK": 1.3
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "stormHood",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Rift Walker",
+    "set": "storm"
+   },
+   "name": {
+    "en_US": "Stormcaller Hood",
+    "de_DE": "Stormcaller Hood",
+    "fr_FR": "Stormcaller Hood",
+    "zh_CN": "Stormcaller Hood",
+    "zh_TW": "Stormcaller Hood",
+    "ja_JP": "Stormcaller Hood",
+    "ko_KR": "Stormcaller Hood"
+   },
+   "description": {
+    "en_US": "Rainproof, rift-proof, and a little bit dramatic.",
+    "de_DE": "Rainproof, rift-proof, and a little bit dramatic.",
+    "fr_FR": "Rainproof, rift-proof, and a little bit dramatic.",
+    "zh_CN": "Rainproof, rift-proof, and a little bit dramatic.",
+    "zh_TW": "Rainproof, rift-proof, and a little bit dramatic.",
+    "ja_JP": "Rainproof, rift-proof, and a little bit dramatic.",
+    "ko_KR": "Rainproof, rift-proof, and a little bit dramatic."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 305,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 37,
+    "defense": 9,
+    "focus": 145
+   },
+   "properties": {
+    "RANGED_DMG": 1.2,
+    "AIM_STABILITY": 1.3
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "stormCoat",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Spark Tracker",
+    "set": "storm"
+   },
+   "name": {
+    "en_US": "Stormcaller Coat",
+    "de_DE": "Stormcaller Coat",
+    "fr_FR": "Stormcaller Coat",
+    "zh_CN": "Stormcaller Coat",
+    "zh_TW": "Stormcaller Coat",
+    "ja_JP": "Stormcaller Coat",
+    "ko_KR": "Stormcaller Coat"
+   },
+   "description": {
+    "en_US": "Lined with copper thread that drinks in stray lightning.",
+    "de_DE": "Lined with copper thread that drinks in stray lightning.",
+    "fr_FR": "Lined with copper thread that drinks in stray lightning.",
+    "zh_CN": "Lined with copper thread that drinks in stray lightning.",
+    "zh_TW": "Lined with copper thread that drinks in stray lightning.",
+    "ja_JP": "Lined with copper thread that drinks in stray lightning.",
+    "ko_KR": "Lined with copper thread that drinks in stray lightning."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 306,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1.15,
+     1
+    ],
+    "hp": 990,
+    "defense": 35,
+    "focus": 51
+   },
+   "properties": {
+    "OVERHEAT_REDUCTION": 1.25,
+    "COND_EFFECT_ALL": 1.25
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "stormTreads",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Tide Chaser",
+    "set": "storm"
+   },
+   "name": {
+    "en_US": "Stormcaller Treads",
+    "de_DE": "Stormcaller Treads",
+    "fr_FR": "Stormcaller Treads",
+    "zh_CN": "Stormcaller Treads",
+    "zh_TW": "Stormcaller Treads",
+    "ja_JP": "Stormcaller Treads",
+    "ko_KR": "Stormcaller Treads"
+   },
+   "description": {
+    "en_US": "Grippy soles made for running through puddles at full speed.",
+    "de_DE": "Grippy soles made for running through puddles at full speed.",
+    "fr_FR": "Grippy soles made for running through puddles at full speed.",
+    "zh_CN": "Grippy soles made for running through puddles at full speed.",
+    "zh_TW": "Grippy soles made for running through puddles at full speed.",
+    "ja_JP": "Grippy soles made for running through puddles at full speed.",
+    "ko_KR": "Grippy soles made for running through puddles at full speed."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 307,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1.15
+    ],
+    "hp": 704,
+    "attack": 24,
+    "defense": 24,
+    "focus": 68
+   },
+   "properties": {
+    "AIMING_MOVEMENT": 1.25,
+    "DASH_STEP": 2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "moonFang",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Night Stalker",
+    "set": "moon"
+   },
+   "name": {
+    "en_US": "Moonlit Fang",
+    "de_DE": "Moonlit Fang",
+    "fr_FR": "Moonlit Fang",
+    "zh_CN": "Moonlit Fang",
+    "zh_TW": "Moonlit Fang",
+    "ja_JP": "Moonlit Fang",
+    "ko_KR": "Moonlit Fang"
+   },
+   "description": {
+    "en_US": "Pale as moonlight and twice as quiet.",
+    "de_DE": "Pale as moonlight and twice as quiet.",
+    "fr_FR": "Pale as moonlight and twice as quiet.",
+    "zh_CN": "Pale as moonlight and twice as quiet.",
+    "zh_TW": "Pale as moonlight and twice as quiet.",
+    "ja_JP": "Pale as moonlight and twice as quiet.",
+    "ko_KR": "Pale as moonlight and twice as quiet."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 308,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 130,
+    "defense": 55
+   },
+   "properties": {
+    "ASSAULT": 1.25,
+    "CROSS_COUNTER": 1.3
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "moonVeil",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Shiny Hunter",
+    "set": "moon"
+   },
+   "name": {
+    "en_US": "Moonlit Veil",
+    "de_DE": "Moonlit Veil",
+    "fr_FR": "Moonlit Veil",
+    "zh_CN": "Moonlit Veil",
+    "zh_TW": "Moonlit Veil",
+    "ja_JP": "Moonlit Veil",
+    "ko_KR": "Moonlit Veil"
+   },
+   "description": {
+    "en_US": "Shimmers like a shiny card under the moon.",
+    "de_DE": "Shimmers like a shiny card under the moon.",
+    "fr_FR": "Shimmers like a shiny card under the moon.",
+    "zh_CN": "Shimmers like a shiny card under the moon.",
+    "zh_TW": "Shimmers like a shiny card under the moon.",
+    "ja_JP": "Shimmers like a shiny card under the moon.",
+    "ko_KR": "Shimmers like a shiny card under the moon."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 309,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 9,
+    "focus": 185
+   },
+   "properties": {
+    "CRITICAL_DMG": 1.3,
+    "BREAK_DMG": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "moonShroud",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Soulmates",
+    "set": "moon"
+   },
+   "name": {
+    "en_US": "Moonlit Shroud",
+    "de_DE": "Moonlit Shroud",
+    "fr_FR": "Moonlit Shroud",
+    "zh_CN": "Moonlit Shroud",
+    "zh_TW": "Moonlit Shroud",
+    "ja_JP": "Moonlit Shroud",
+    "ko_KR": "Moonlit Shroud"
+   },
+   "description": {
+    "en_US": "Woven by the light of a full moon, for those who never fight alone.",
+    "de_DE": "Woven by the light of a full moon, for those who never fight alone.",
+    "fr_FR": "Woven by the light of a full moon, for those who never fight alone.",
+    "zh_CN": "Woven by the light of a full moon, for those who never fight alone.",
+    "zh_TW": "Woven by the light of a full moon, for those who never fight alone.",
+    "ja_JP": "Woven by the light of a full moon, for those who never fight alone.",
+    "ko_KR": "Woven by the light of a full moon, for those who never fight alone."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 310,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 990,
+    "defense": 35,
+    "focus": 51
+   },
+   "properties": {
+    "DASH_INVINC": 1.2,
+    "CRITICAL_DMG": 1.25
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "moonSteps",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Lightning Quick",
+    "set": "moon"
+   },
+   "name": {
+    "en_US": "Moonlit Steps",
+    "de_DE": "Moonlit Steps",
+    "fr_FR": "Moonlit Steps",
+    "zh_CN": "Moonlit Steps",
+    "zh_TW": "Moonlit Steps",
+    "ja_JP": "Moonlit Steps",
+    "ko_KR": "Moonlit Steps"
+   },
+   "description": {
+    "en_US": "You'll be gone before the shadows notice.",
+    "de_DE": "You'll be gone before the shadows notice.",
+    "fr_FR": "You'll be gone before the shadows notice.",
+    "zh_CN": "You'll be gone before the shadows notice.",
+    "zh_TW": "You'll be gone before the shadows notice.",
+    "ja_JP": "You'll be gone before the shadows notice.",
+    "ko_KR": "You'll be gone before the shadows notice."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 311,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 880,
+    "defense": 24,
+    "focus": 86
+   },
+   "properties": {
+    "MOMENTUM": 1.15,
+    "DASH_INVINC": 1.25
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "creditCrusher",
+   "wdnShop": {
+    "page": "gear",
+    "price": 520000,
+    "medal": "Card Shark",
+    "set": null
+   },
+   "name": {
+    "en_US": "Credit Crusher",
+    "de_DE": "Credit Crusher",
+    "fr_FR": "Credit Crusher",
+    "zh_CN": "Credit Crusher",
+    "zh_TW": "Credit Crusher",
+    "ja_JP": "Credit Crusher",
+    "ko_KR": "Credit Crusher"
+   },
+   "description": {
+    "en_US": "A knuckleduster bought with card winnings. Hits harder the richer you get.",
+    "de_DE": "A knuckleduster bought with card winnings. Hits harder the richer you get.",
+    "fr_FR": "A knuckleduster bought with card winnings. Hits harder the richer you get.",
+    "zh_CN": "A knuckleduster bought with card winnings. Hits harder the richer you get.",
+    "zh_TW": "A knuckleduster bought with card winnings. Hits harder the richer you get.",
+    "ja_JP": "A knuckleduster bought with card winnings. Hits harder the richer you get.",
+    "ko_KR": "A knuckleduster bought with card winnings. Hits harder the richer you get."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 2,
+   "level": 60,
+   "cost": 52000,
+   "order": 312,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 312,
+    "attack": 112,
+    "defense": 48
+   },
+   "properties": {
+    "MONEY_PLUS": 1.3,
+    "ASSAULT": 1.15
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "cardsharpEdge",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Card Collector",
+    "set": null
+   },
+   "name": {
+    "en_US": "Cardsharp's Edge",
+    "de_DE": "Cardsharp's Edge",
+    "fr_FR": "Cardsharp's Edge",
+    "zh_CN": "Cardsharp's Edge",
+    "zh_TW": "Cardsharp's Edge",
+    "ja_JP": "Cardsharp's Edge",
+    "ko_KR": "Cardsharp's Edge"
+   },
+   "description": {
+    "en_US": "Thin as a playing card and sharper than any of them.",
+    "de_DE": "Thin as a playing card and sharper than any of them.",
+    "fr_FR": "Thin as a playing card and sharper than any of them.",
+    "zh_CN": "Thin as a playing card and sharper than any of them.",
+    "zh_TW": "Thin as a playing card and sharper than any of them.",
+    "ja_JP": "Thin as a playing card and sharper than any of them.",
+    "ko_KR": "Thin as a playing card and sharper than any of them."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 313,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 99,
+    "focus": 101
+   },
+   "properties": {
+    "CRITICAL_DMG": 1.6,
+    "DROP_CHANCE": 1.25
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "prismGauntlets",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Orb Seeker",
+    "set": null
+   },
+   "name": {
+    "en_US": "Prism Gauntlets",
+    "de_DE": "Prism Gauntlets",
+    "fr_FR": "Prism Gauntlets",
+    "zh_CN": "Prism Gauntlets",
+    "zh_TW": "Prism Gauntlets",
+    "ja_JP": "Prism Gauntlets",
+    "ko_KR": "Prism Gauntlets"
+   },
+   "description": {
+    "en_US": "Each knuckle holds a sliver of a different element orb.",
+    "de_DE": "Each knuckle holds a sliver of a different element orb.",
+    "fr_FR": "Each knuckle holds a sliver of a different element orb.",
+    "zh_CN": "Each knuckle holds a sliver of a different element orb.",
+    "zh_TW": "Each knuckle holds a sliver of a different element orb.",
+    "ja_JP": "Each knuckle holds a sliver of a different element orb.",
+    "ko_KR": "Each knuckle holds a sliver of a different element orb."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 314,
+   "params": {
+    "elemFactor": [
+     1.05,
+     1.05,
+     1.05,
+     1.05
+    ],
+    "attack": 66,
+    "defense": 73,
+    "focus": 73
+   },
+   "properties": {
+    "COND_EFFECT_ALL": 1.35,
+    "SP_REGEN": 1.15,
+    "GUARD_SP": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "sageMonocle",
+   "wdnShop": {
+    "page": "gear",
+    "price": 520000,
+    "medal": "Field Notes",
+    "set": null
+   },
+   "name": {
+    "en_US": "Sage's Monocle",
+    "de_DE": "Sage's Monocle",
+    "fr_FR": "Sage's Monocle",
+    "zh_CN": "Sage's Monocle",
+    "zh_TW": "Sage's Monocle",
+    "ja_JP": "Sage's Monocle",
+    "ko_KR": "Sage's Monocle"
+   },
+   "description": {
+    "en_US": "For reading the field notes, and the enemy's weak spots.",
+    "de_DE": "For reading the field notes, and the enemy's weak spots.",
+    "fr_FR": "For reading the field notes, and the enemy's weak spots.",
+    "zh_CN": "For reading the field notes, and the enemy's weak spots.",
+    "zh_TW": "For reading the field notes, and the enemy's weak spots.",
+    "ja_JP": "For reading the field notes, and the enemy's weak spots.",
+    "ko_KR": "For reading the field notes, and the enemy's weak spots."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 2,
+   "level": 60,
+   "cost": 52000,
+   "order": 315,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 8,
+    "focus": 175
+   },
+   "properties": {
+    "XP_PLUS": 1.25,
+    "BREAK_DMG": 1.3
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "championCrest",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Champion Hunter",
+    "set": null
+   },
+   "name": {
+    "en_US": "Champion's Crest",
+    "de_DE": "Champion's Crest",
+    "fr_FR": "Champion's Crest",
+    "zh_CN": "Champion's Crest",
+    "zh_TW": "Champion's Crest",
+    "ja_JP": "Champion's Crest",
+    "ko_KR": "Champion's Crest"
+   },
+   "description": {
+    "en_US": "Taken from the aura of a fallen champion. Still warm.",
+    "de_DE": "Taken from the aura of a fallen champion. Still warm.",
+    "fr_FR": "Taken from the aura of a fallen champion. Still warm.",
+    "zh_CN": "Taken from the aura of a fallen champion. Still warm.",
+    "zh_TW": "Taken from the aura of a fallen champion. Still warm.",
+    "ja_JP": "Taken from the aura of a fallen champion. Still warm.",
+    "ko_KR": "Taken from the aura of a fallen champion. Still warm."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 316,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 37,
+    "defense": 9,
+    "focus": 145
+   },
+   "properties": {
+    "BERSERK": 1.3,
+    "STUN_THRESHOLD": 1.03,
+    "MELEE_DMG": 1.1
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "trialCirclet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 520000,
+    "medal": "Trial Runner",
+    "set": null
+   },
+   "name": {
+    "en_US": "Trialmaster Crown",
+    "de_DE": "Trialmaster Crown",
+    "fr_FR": "Trialmaster Crown",
+    "zh_CN": "Trialmaster Crown",
+    "zh_TW": "Trialmaster Crown",
+    "ja_JP": "Trialmaster Crown",
+    "ko_KR": "Trialmaster Crown"
+   },
+   "description": {
+    "en_US": "Awarded at the Trial Fountain to those who keep coming back.",
+    "de_DE": "Awarded at the Trial Fountain to those who keep coming back.",
+    "fr_FR": "Awarded at the Trial Fountain to those who keep coming back.",
+    "zh_CN": "Awarded at the Trial Fountain to those who keep coming back.",
+    "zh_TW": "Awarded at the Trial Fountain to those who keep coming back.",
+    "ja_JP": "Awarded at the Trial Fountain to those who keep coming back.",
+    "ko_KR": "Awarded at the Trial Fountain to those who keep coming back."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 2,
+   "level": 60,
+   "cost": 52000,
+   "order": 317,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 89,
+    "focus": 69
+   },
+   "properties": {
+    "PERFECT_GUARD_WINDOW": 1.3,
+    "AIM_SPEED": 1.25
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "chefApron",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Best Friends",
+    "set": null
+   },
+   "name": {
+    "en_US": "Chef's Apron",
+    "de_DE": "Chef's Apron",
+    "fr_FR": "Chef's Apron",
+    "zh_CN": "Chef's Apron",
+    "zh_TW": "Chef's Apron",
+    "ja_JP": "Chef's Apron",
+    "ko_KR": "Chef's Apron"
+   },
+   "description": {
+    "en_US": "Chef Backer's own. Food tastes better, lasts longer and heals more.",
+    "de_DE": "Chef Backer's own. Food tastes better, lasts longer and heals more.",
+    "fr_FR": "Chef Backer's own. Food tastes better, lasts longer and heals more.",
+    "zh_CN": "Chef Backer's own. Food tastes better, lasts longer and heals more.",
+    "zh_TW": "Chef Backer's own. Food tastes better, lasts longer and heals more.",
+    "ja_JP": "Chef Backer's own. Food tastes better, lasts longer and heals more.",
+    "ko_KR": "Chef Backer's own. Food tastes better, lasts longer and heals more."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 318,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 1342,
+    "defense": 44
+   },
+   "properties": {
+    "APPETITE": 2,
+    "ITEM_BOOST": 1.35,
+    "HP_REGEN": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "bergenBulwark",
+   "wdnShop": {
+    "page": "gear",
+    "price": 520000,
+    "medal": "Boss Breaker",
+    "set": null
+   },
+   "name": {
+    "en_US": "Bulwark of Bergen",
+    "de_DE": "Bulwark of Bergen",
+    "fr_FR": "Bulwark of Bergen",
+    "zh_CN": "Bulwark of Bergen",
+    "zh_TW": "Bulwark of Bergen",
+    "ja_JP": "Bulwark of Bergen",
+    "ko_KR": "Bulwark of Bergen"
+   },
+   "description": {
+    "en_US": "Mountain steel that boss trials couldn't dent.",
+    "de_DE": "Mountain steel that boss trials couldn't dent.",
+    "fr_FR": "Mountain steel that boss trials couldn't dent.",
+    "zh_CN": "Mountain steel that boss trials couldn't dent.",
+    "zh_TW": "Mountain steel that boss trials couldn't dent.",
+    "ja_JP": "Mountain steel that boss trials couldn't dent.",
+    "ko_KR": "Mountain steel that boss trials couldn't dent."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 2,
+   "level": 60,
+   "cost": 52000,
+   "order": 319,
+   "params": {
+    "elemFactor": [
+     1,
+     1.1,
+     1,
+     1
+    ],
+    "hp": 686,
+    "defense": 112
+   },
+   "properties": {
+    "GUARD_STRENGTH": 1.35,
+    "SPIKE_DMG": 1.4,
+    "ITEM_GUARD": 2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "wandererCoat",
+   "wdnShop": {
+    "page": "gear",
+    "price": 520000,
+    "medal": "Area Sweeper",
+    "set": null
+   },
+   "name": {
+    "en_US": "Wanderer's Coat",
+    "de_DE": "Wanderer's Coat",
+    "fr_FR": "Wanderer's Coat",
+    "zh_CN": "Wanderer's Coat",
+    "zh_TW": "Wanderer's Coat",
+    "ja_JP": "Wanderer's Coat",
+    "ko_KR": "Wanderer's Coat"
+   },
+   "description": {
+    "en_US": "Worn thin by every corner of every area.",
+    "de_DE": "Worn thin by every corner of every area.",
+    "fr_FR": "Worn thin by every corner of every area.",
+    "zh_CN": "Worn thin by every corner of every area.",
+    "zh_TW": "Worn thin by every corner of every area.",
+    "ja_JP": "Worn thin by every corner of every area.",
+    "ko_KR": "Worn thin by every corner of every area."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 2,
+   "level": 60,
+   "cost": 52000,
+   "order": 320,
+   "params": {
+    "elemFactor": [
+     1.05,
+     1.05,
+     1.05,
+     1.05
+    ],
+    "hp": 936,
+    "defense": 33,
+    "focus": 48
+   },
+   "properties": {
+    "DASH_INVINC": 1.3,
+    "COND_HEALING": 1.4
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "leagueBoots",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Against the Clock",
+    "set": null
+   },
+   "name": {
+    "en_US": "Seven-League Boots",
+    "de_DE": "Seven-League Boots",
+    "fr_FR": "Seven-League Boots",
+    "zh_CN": "Seven-League Boots",
+    "zh_TW": "Seven-League Boots",
+    "ja_JP": "Seven-League Boots",
+    "ko_KR": "Seven-League Boots"
+   },
+   "description": {
+    "en_US": "Each step covers a little more ground than it should.",
+    "de_DE": "Each step covers a little more ground than it should.",
+    "fr_FR": "Each step covers a little more ground than it should.",
+    "zh_CN": "Each step covers a little more ground than it should.",
+    "zh_TW": "Each step covers a little more ground than it should.",
+    "ja_JP": "Each step covers a little more ground than it should.",
+    "ko_KR": "Each step covers a little more ground than it should."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 321,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 704,
+    "attack": 24,
+    "defense": 24,
+    "focus": 68
+   },
+   "properties": {
+    "DASH_STEP": 2,
+    "MOMENTUM": 1.15,
+    "AIMING_MOVEMENT": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "glacierTreads",
+   "wdnShop": {
+    "page": "gear",
+    "price": 520000,
+    "medal": "Frost Finder",
+    "set": null
+   },
+   "name": {
+    "en_US": "Glacier Treads",
+    "de_DE": "Glacier Treads",
+    "fr_FR": "Glacier Treads",
+    "zh_CN": "Glacier Treads",
+    "zh_TW": "Glacier Treads",
+    "ja_JP": "Glacier Treads",
+    "ko_KR": "Glacier Treads"
+   },
+   "description": {
+    "en_US": "Spiked soles. Ice simply gives up.",
+    "de_DE": "Spiked soles. Ice simply gives up.",
+    "fr_FR": "Spiked soles. Ice simply gives up.",
+    "zh_CN": "Spiked soles. Ice simply gives up.",
+    "zh_TW": "Spiked soles. Ice simply gives up.",
+    "ja_JP": "Spiked soles. Ice simply gives up.",
+    "ko_KR": "Spiked soles. Ice simply gives up."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 2,
+   "level": 60,
+   "cost": 52000,
+   "order": 322,
+   "params": {
+    "elemFactor": [
+     1,
+     1.25,
+     1,
+     1
+    ],
+    "hp": 728,
+    "defense": 69,
+    "focus": 35
+   },
+   "properties": {
+    "BEGONE_ICE": 2,
+    "STUN_THRESHOLD": 1.04
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "emberStriders",
+   "wdnShop": {
+    "page": "gear",
+    "price": 520000,
+    "medal": "Heat Seeker",
+    "set": null
+   },
+   "name": {
+    "en_US": "Ember Striders",
+    "de_DE": "Ember Striders",
+    "fr_FR": "Ember Striders",
+    "zh_CN": "Ember Striders",
+    "zh_TW": "Ember Striders",
+    "ja_JP": "Ember Striders",
+    "ko_KR": "Ember Striders"
+   },
+   "description": {
+    "en_US": "Lava-proof, and they leave little sparks on the ground.",
+    "de_DE": "Lava-proof, and they leave little sparks on the ground.",
+    "fr_FR": "Lava-proof, and they leave little sparks on the ground.",
+    "zh_CN": "Lava-proof, and they leave little sparks on the ground.",
+    "zh_TW": "Lava-proof, and they leave little sparks on the ground.",
+    "ja_JP": "Lava-proof, and they leave little sparks on the ground.",
+    "ko_KR": "Lava-proof, and they leave little sparks on the ground."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 2,
+   "level": 60,
+   "cost": 52000,
+   "order": 323,
+   "params": {
+    "elemFactor": [
+     1.25,
+     1,
+     1,
+     1
+    ],
+    "hp": 936,
+    "defense": 31,
+    "focus": 48
+   },
+   "properties": {
+    "OVERHEAT_REDUCTION": 1.35,
+    "DASH_INVINC": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "clubSandwich",
+   "wdnShop": {
+    "page": "food",
+    "price": 12000,
+    "medal": "Card Collector",
+    "tier": 2
+   },
+   "name": {
+    "en_US": "Golden Club Sand.",
+    "de_DE": "Golden Club Sand.",
+    "fr_FR": "Golden Club Sand.",
+    "zh_CN": "Golden Club Sand.",
+    "zh_TW": "Golden Club Sand.",
+    "ja_JP": "Golden Club Sand.",
+    "ko_KR": "Golden Club Sand."
+   },
+   "description": {
+    "en_US": "Three layers, gold leaf on top. The Chef's pride.",
+    "de_DE": "Three layers, gold leaf on top. The Chef's pride.",
+    "fr_FR": "Three layers, gold leaf on top. The Chef's pride.",
+    "zh_CN": "Three layers, gold leaf on top. The Chef's pride.",
+    "zh_TW": "Three layers, gold leaf on top. The Chef's pride.",
+    "ja_JP": "Three layers, gold leaf on top. The Chef's pride.",
+    "ko_KR": "Three layers, gold leaf on top. The Chef's pride."
+   },
+   "type": "CONS",
+   "icon": "item-items",
+   "rarity": 5,
+   "level": 1,
+   "cost": 12000,
+   "order": 120,
+   "effect": {
+    "sheet": "drops",
+    "name": "circle"
+   },
+   "useSpeed": 1,
+   "foodSprite": "RISING_STAR",
+   "time": 90,
+   "stats": [
+    "HEAL-4",
+    "ATTACK-3",
+    "DEFENSE-3"
+   ],
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "orbitParfait",
+   "wdnShop": {
+    "page": "food",
+    "price": 14000,
+    "medal": "Orb Seeker",
+    "tier": 2
+   },
+   "name": {
+    "en_US": "Orbit Parfait",
+    "de_DE": "Orbit Parfait",
+    "fr_FR": "Orbit Parfait",
+    "zh_CN": "Orbit Parfait",
+    "zh_TW": "Orbit Parfait",
+    "ja_JP": "Orbit Parfait",
+    "ko_KR": "Orbit Parfait"
+   },
+   "description": {
+    "en_US": "Four scoops, one per element, orbiting a cherry.",
+    "de_DE": "Four scoops, one per element, orbiting a cherry.",
+    "fr_FR": "Four scoops, one per element, orbiting a cherry.",
+    "zh_CN": "Four scoops, one per element, orbiting a cherry.",
+    "zh_TW": "Four scoops, one per element, orbiting a cherry.",
+    "ja_JP": "Four scoops, one per element, orbiting a cherry.",
+    "ko_KR": "Four scoops, one per element, orbiting a cherry."
+   },
+   "type": "CONS",
+   "icon": "item-items",
+   "rarity": 5,
+   "level": 1,
+   "cost": 14000,
+   "order": 121,
+   "effect": {
+    "sheet": "drops",
+    "name": "circle"
+   },
+   "useSpeed": 1,
+   "foodSprite": "MOONCAKE",
+   "time": 90,
+   "stats": [
+    "SP_REGEN-3",
+    "FOCUS-3",
+    "WDN-CRIT-2"
+   ],
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "trialRation",
+   "wdnShop": {
+    "page": "food",
+    "price": 9500,
+    "medal": "Trial Runner",
+    "tier": 1
+   },
+   "name": {
+    "en_US": "Trial Ration",
+    "de_DE": "Trial Ration",
+    "fr_FR": "Trial Ration",
+    "zh_CN": "Trial Ration",
+    "zh_TW": "Trial Ration",
+    "ja_JP": "Trial Ration",
+    "ko_KR": "Trial Ration"
+   },
+   "description": {
+    "en_US": "Eaten in one bite between trial rounds.",
+    "de_DE": "Eaten in one bite between trial rounds.",
+    "fr_FR": "Eaten in one bite between trial rounds.",
+    "zh_CN": "Eaten in one bite between trial rounds.",
+    "zh_TW": "Eaten in one bite between trial rounds.",
+    "ja_JP": "Eaten in one bite between trial rounds.",
+    "ko_KR": "Eaten in one bite between trial rounds."
+   },
+   "type": "CONS",
+   "icon": "item-items",
+   "rarity": 5,
+   "level": 1,
+   "cost": 9500,
+   "order": 122,
+   "effect": {
+    "sheet": "drops",
+    "name": "circle"
+   },
+   "useSpeed": 1,
+   "foodSprite": "BEAT_ZERO",
+   "time": 60,
+   "stats": [
+    "ATTACK-4",
+    "WDN-CRIT-3"
+   ],
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "riftEspresso",
+   "wdnShop": {
+    "page": "food",
+    "price": 8800,
+    "medal": "Rift Walker",
+    "tier": 1
+   },
+   "name": {
+    "en_US": "Rift Espresso",
+    "de_DE": "Rift Espresso",
+    "fr_FR": "Rift Espresso",
+    "zh_CN": "Rift Espresso",
+    "zh_TW": "Rift Espresso",
+    "ja_JP": "Rift Espresso",
+    "ko_KR": "Rift Espresso"
+   },
+   "description": {
+    "en_US": "Brewed with water from the rift. Don't ask.",
+    "de_DE": "Brewed with water from the rift. Don't ask.",
+    "fr_FR": "Brewed with water from the rift. Don't ask.",
+    "zh_CN": "Brewed with water from the rift. Don't ask.",
+    "zh_TW": "Brewed with water from the rift. Don't ask.",
+    "ja_JP": "Brewed with water from the rift. Don't ask.",
+    "ko_KR": "Brewed with water from the rift. Don't ask."
+   },
+   "type": "CONS",
+   "icon": "item-items",
+   "rarity": 5,
+   "level": 1,
+   "cost": 8800,
+   "order": 123,
+   "effect": {
+    "sheet": "drops",
+    "name": "circle"
+   },
+   "useSpeed": 1,
+   "foodSprite": "PUMPKIN_SPICE",
+   "time": 90,
+   "stats": [
+    "DASH-STEP-1",
+    "WDN-DASH-3"
+   ],
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "championFeast",
+   "wdnShop": {
+    "page": "food",
+    "price": 16000,
+    "medal": "Champion Hunter",
+    "tier": 2
+   },
+   "name": {
+    "en_US": "Champion's Feast",
+    "de_DE": "Champion's Feast",
+    "fr_FR": "Champion's Feast",
+    "zh_CN": "Champion's Feast",
+    "zh_TW": "Champion's Feast",
+    "ja_JP": "Champion's Feast",
+    "ko_KR": "Champion's Feast"
+   },
+   "description": {
+    "en_US": "A meal fit for someone who eats champions for breakfast.",
+    "de_DE": "A meal fit for someone who eats champions for breakfast.",
+    "fr_FR": "A meal fit for someone who eats champions for breakfast.",
+    "zh_CN": "A meal fit for someone who eats champions for breakfast.",
+    "zh_TW": "A meal fit for someone who eats champions for breakfast.",
+    "ja_JP": "A meal fit for someone who eats champions for breakfast.",
+    "ko_KR": "A meal fit for someone who eats champions for breakfast."
+   },
+   "type": "CONS",
+   "icon": "item-items",
+   "rarity": 5,
+   "level": 1,
+   "cost": 16000,
+   "order": 124,
+   "effect": {
+    "sheet": "drops",
+    "name": "circle"
+   },
+   "useSpeed": 1,
+   "foodSprite": "GUACAMOLE_TOAST",
+   "time": 120,
+   "stats": [
+    "HEAL-5",
+    "HP-3",
+    "MELEE_DMG-4"
+   ],
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "fortuneCookie",
+   "wdnShop": {
+    "page": "food",
+    "price": 15000,
+    "medal": "Card Shark",
+    "tier": 2
+   },
+   "name": {
+    "en_US": "Fortune Cookie",
+    "de_DE": "Fortune Cookie",
+    "fr_FR": "Fortune Cookie",
+    "zh_CN": "Fortune Cookie",
+    "zh_TW": "Fortune Cookie",
+    "ja_JP": "Fortune Cookie",
+    "ko_KR": "Fortune Cookie"
+   },
+   "description": {
+    "en_US": "The slip inside always says the same thing: 'You will win.'",
+    "de_DE": "The slip inside always says the same thing: 'You will win.'",
+    "fr_FR": "The slip inside always says the same thing: 'You will win.'",
+    "zh_CN": "The slip inside always says the same thing: 'You will win.'",
+    "zh_TW": "The slip inside always says the same thing: 'You will win.'",
+    "ja_JP": "The slip inside always says the same thing: 'You will win.'",
+    "ko_KR": "The slip inside always says the same thing: 'You will win.'"
+   },
+   "type": "CONS",
+   "icon": "item-items",
+   "rarity": 5,
+   "level": 1,
+   "cost": 15000,
+   "order": 125,
+   "effect": {
+    "sheet": "drops",
+    "name": "circle"
+   },
+   "useSpeed": 1,
+   "foodSprite": "RICE_CRACKER",
+   "time": 300,
+   "stats": [
+    "WDN-DROP-3",
+    "WDN-MONEY-3"
+   ],
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "thunderTea",
+   "wdnShop": {
+    "page": "food",
+    "price": 7500,
+    "medal": "Storm Watcher",
+    "tier": 1
+   },
+   "name": {
+    "en_US": "Thunderhead Tea",
+    "de_DE": "Thunderhead Tea",
+    "fr_FR": "Thunderhead Tea",
+    "zh_CN": "Thunderhead Tea",
+    "zh_TW": "Thunderhead Tea",
+    "ja_JP": "Thunderhead Tea",
+    "ko_KR": "Thunderhead Tea"
+   },
+   "description": {
+    "en_US": "Steeped in a thunderstorm. Fizzes slightly.",
+    "de_DE": "Steeped in a thunderstorm. Fizzes slightly.",
+    "fr_FR": "Steeped in a thunderstorm. Fizzes slightly.",
+    "zh_CN": "Steeped in a thunderstorm. Fizzes slightly.",
+    "zh_TW": "Steeped in a thunderstorm. Fizzes slightly.",
+    "ja_JP": "Steeped in a thunderstorm. Fizzes slightly.",
+    "ko_KR": "Steeped in a thunderstorm. Fizzes slightly."
+   },
+   "type": "CONS",
+   "icon": "item-items",
+   "rarity": 5,
+   "level": 1,
+   "cost": 7500,
+   "order": 126,
+   "effect": {
+    "sheet": "drops",
+    "name": "circle"
+   },
+   "useSpeed": 1,
+   "foodSprite": "GREEN_TEA",
+   "time": 120,
+   "stats": [
+    "SHOCK-RES-3",
+    "WAVE-RES-3",
+    "REGEN-4"
+   ],
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "scholarScone",
+   "wdnShop": {
+    "page": "food",
+    "price": 18000,
+    "medal": "Field Notes",
+    "tier": 2
+   },
+   "name": {
+    "en_US": "Scholar's Scone",
+    "de_DE": "Scholar's Scone",
+    "fr_FR": "Scholar's Scone",
+    "zh_CN": "Scholar's Scone",
+    "zh_TW": "Scholar's Scone",
+    "ja_JP": "Scholar's Scone",
+    "ko_KR": "Scholar's Scone"
+   },
+   "description": {
+    "en_US": "Crumbs everywhere, but you learn so much faster.",
+    "de_DE": "Crumbs everywhere, but you learn so much faster.",
+    "fr_FR": "Crumbs everywhere, but you learn so much faster.",
+    "zh_CN": "Crumbs everywhere, but you learn so much faster.",
+    "zh_TW": "Crumbs everywhere, but you learn so much faster.",
+    "ja_JP": "Crumbs everywhere, but you learn so much faster.",
+    "ko_KR": "Crumbs everywhere, but you learn so much faster."
+   },
+   "type": "CONS",
+   "icon": "item-items",
+   "rarity": 5,
+   "level": 1,
+   "cost": 18000,
+   "order": 127,
+   "effect": {
+    "sheet": "drops",
+    "name": "circle"
+   },
+   "useSpeed": 1,
+   "foodSprite": "WILLI_BUN",
+   "time": 300,
+   "stats": [
+    "WDN-XP-3"
+   ],
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "bondBiscuit",
+   "wdnShop": {
+    "page": "food",
+    "price": 9000,
+    "medal": "Best Friends",
+    "tier": 1
+   },
+   "name": {
+    "en_US": "Bond Biscuit",
+    "de_DE": "Bond Biscuit",
+    "fr_FR": "Bond Biscuit",
+    "zh_CN": "Bond Biscuit",
+    "zh_TW": "Bond Biscuit",
+    "ja_JP": "Bond Biscuit",
+    "ko_KR": "Bond Biscuit"
+   },
+   "description": {
+    "en_US": "Baked to share. Your companions insist.",
+    "de_DE": "Baked to share. Your companions insist.",
+    "fr_FR": "Baked to share. Your companions insist.",
+    "zh_CN": "Baked to share. Your companions insist.",
+    "zh_TW": "Baked to share. Your companions insist.",
+    "ja_JP": "Baked to share. Your companions insist.",
+    "ko_KR": "Baked to share. Your companions insist."
+   },
+   "type": "CONS",
+   "icon": "item-items",
+   "rarity": 5,
+   "level": 1,
+   "cost": 9000,
+   "order": 128,
+   "effect": {
+    "sheet": "drops",
+    "name": "circle"
+   },
+   "useSpeed": 1,
+   "foodSprite": "WILLI_BUN",
+   "time": 90,
+   "stats": [
+    "COND_HEALING-3",
+    "REGEN-3",
+    "CROSS_COUNTER-3"
+   ],
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "hideoutHotpot",
+   "wdnShop": {
+    "page": "food",
+    "price": 11000,
+    "medal": "A Place of My Own",
+    "tier": 3
+   },
+   "name": {
+    "en_US": "Hideout Hotpot",
+    "de_DE": "Hideout Hotpot",
+    "fr_FR": "Hideout Hotpot",
+    "zh_CN": "Hideout Hotpot",
+    "zh_TW": "Hideout Hotpot",
+    "ja_JP": "Hideout Hotpot",
+    "ko_KR": "Hideout Hotpot"
+   },
+   "description": {
+    "en_US": "Simmered on the hideout's little stove. Tastes like home.",
+    "de_DE": "Simmered on the hideout's little stove. Tastes like home.",
+    "fr_FR": "Simmered on the hideout's little stove. Tastes like home.",
+    "zh_CN": "Simmered on the hideout's little stove. Tastes like home.",
+    "zh_TW": "Simmered on the hideout's little stove. Tastes like home.",
+    "ja_JP": "Simmered on the hideout's little stove. Tastes like home.",
+    "ko_KR": "Simmered on the hideout's little stove. Tastes like home."
+   },
+   "type": "CONS",
+   "icon": "item-items",
+   "rarity": 5,
+   "level": 1,
+   "cost": 11000,
+   "order": 129,
+   "effect": {
+    "sheet": "drops",
+    "name": "circle"
+   },
+   "useSpeed": 1,
+   "foodSprite": "MOONCAKE",
+   "time": 60,
+   "stats": [
+    "HEAL-5",
+    "REGEN-4",
+    "SP_REGEN-3"
+   ],
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "gildedPudding",
+   "wdnShop": {
+    "page": "food",
+    "price": 30000,
+    "medal": "Enhanced",
+    "tier": 3
+   },
+   "name": {
+    "en_US": "Gilded Pudding",
+    "de_DE": "Gilded Pudding",
+    "fr_FR": "Gilded Pudding",
+    "zh_CN": "Gilded Pudding",
+    "zh_TW": "Gilded Pudding",
+    "ja_JP": "Gilded Pudding",
+    "ko_KR": "Gilded Pudding"
+   },
+   "description": {
+    "en_US": "The most expensive dessert in Rhombus Square. Worth every Credit.",
+    "de_DE": "The most expensive dessert in Rhombus Square. Worth every Credit.",
+    "fr_FR": "The most expensive dessert in Rhombus Square. Worth every Credit.",
+    "zh_CN": "The most expensive dessert in Rhombus Square. Worth every Credit.",
+    "zh_TW": "The most expensive dessert in Rhombus Square. Worth every Credit.",
+    "ja_JP": "The most expensive dessert in Rhombus Square. Worth every Credit.",
+    "ko_KR": "The most expensive dessert in Rhombus Square. Worth every Credit."
+   },
+   "type": "CONS",
+   "icon": "item-items",
+   "rarity": 5,
+   "level": 1,
+   "cost": 30000,
+   "order": 130,
+   "effect": {
+    "sheet": "drops",
+    "name": "circle"
+   },
+   "useSpeed": 1,
+   "foodSprite": "PENGO_POP",
+   "time": 180,
+   "stats": [
+    "ATTACK-4",
+    "DEFENSE-3",
+    "FOCUS-4",
+    "HP-3"
+   ],
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "rookie-harbor:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 72000,
+    "req": {
+     "type": "areaStars",
+     "area": "rookie-harbor",
+     "name": "Rookie Harbor"
+    },
+    "set": "area:rookie-harbor",
+    "minLevel": 8
+   },
+   "name": {
+    "en_US": "Harbor Cutlass",
+    "de_DE": "Harbor Cutlass",
+    "fr_FR": "Harbor Cutlass",
+    "zh_CN": "Harbor Cutlass",
+    "zh_TW": "Harbor Cutlass",
+    "ja_JP": "Harbor Cutlass",
+    "ko_KR": "Harbor Cutlass"
+   },
+   "description": {
+    "en_US": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "de_DE": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "fr_FR": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "zh_CN": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "zh_TW": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "ja_JP": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "ko_KR": "Sea-salted and sturdy, made in Rookie Harbor's docks."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 2,
+   "level": 8,
+   "cost": 500,
+   "order": 432,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 7,
+    "defense": 3
+   },
+   "properties": {
+    "MELEE_DMG": 1.13,
+    "CRITICAL_DMG": 1.25
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "rookie-harbor:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 72000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "rookie-harbor",
+     "name": "Rookie Harbor"
+    },
+    "set": "area:rookie-harbor",
+    "minLevel": 8
+   },
+   "name": {
+    "en_US": "Harbor Cap",
+    "de_DE": "Harbor Cap",
+    "fr_FR": "Harbor Cap",
+    "zh_CN": "Harbor Cap",
+    "zh_TW": "Harbor Cap",
+    "ja_JP": "Harbor Cap",
+    "ko_KR": "Harbor Cap"
+   },
+   "description": {
+    "en_US": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "de_DE": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "fr_FR": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "zh_CN": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "zh_TW": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "ja_JP": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "ko_KR": "Sea-salted and sturdy, made in Rookie Harbor's docks."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 2,
+   "level": 8,
+   "cost": 500,
+   "order": 433,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 1,
+    "focus": 9
+   },
+   "properties": {
+    "AIM_SPEED": 1.17,
+    "XP_PLUS": 1.13
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "rookie-harbor:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 72000,
+    "req": {
+     "type": "areaCards",
+     "area": "rookie-harbor",
+     "name": "Rookie Harbor"
+    },
+    "set": "area:rookie-harbor",
+    "minLevel": 8
+   },
+   "name": {
+    "en_US": "Harbor Peacoat",
+    "de_DE": "Harbor Peacoat",
+    "fr_FR": "Harbor Peacoat",
+    "zh_CN": "Harbor Peacoat",
+    "zh_TW": "Harbor Peacoat",
+    "ja_JP": "Harbor Peacoat",
+    "ko_KR": "Harbor Peacoat"
+   },
+   "description": {
+    "en_US": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "de_DE": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "fr_FR": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "zh_CN": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "zh_TW": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "ja_JP": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "ko_KR": "Sea-salted and sturdy, made in Rookie Harbor's docks."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 2,
+   "level": 8,
+   "cost": 500,
+   "order": 434,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 68,
+    "defense": 2
+   },
+   "properties": {
+    "HP_REGEN": 1.17,
+    "DASH_INVINC": 1.13
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "rookie-harbor:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 72000,
+    "req": {
+     "type": "areaChests",
+     "area": "rookie-harbor",
+     "name": "Rookie Harbor"
+    },
+    "set": "area:rookie-harbor",
+    "minLevel": 8
+   },
+   "name": {
+    "en_US": "Harbor Deckboots",
+    "de_DE": "Harbor Deckboots",
+    "fr_FR": "Harbor Deckboots",
+    "zh_CN": "Harbor Deckboots",
+    "zh_TW": "Harbor Deckboots",
+    "ja_JP": "Harbor Deckboots",
+    "ko_KR": "Harbor Deckboots"
+   },
+   "description": {
+    "en_US": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "de_DE": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "fr_FR": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "zh_CN": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "zh_TW": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "ja_JP": "Sea-salted and sturdy, made in Rookie Harbor's docks.",
+    "ko_KR": "Sea-salted and sturdy, made in Rookie Harbor's docks."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 2,
+   "level": 8,
+   "cost": 500,
+   "order": 435,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 45,
+    "defense": 1,
+    "focus": 4
+   },
+   "properties": {
+    "DASH_INVINC": 1.17,
+    "COND_HEALING": 1.21
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "autumn-area:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 90000,
+    "req": {
+     "type": "areaStars",
+     "area": "autumn-area",
+     "name": "Autumn's Rise"
+    },
+    "set": "area:autumn-area",
+    "minLevel": 10
+   },
+   "name": {
+    "en_US": "Maple Knuckles",
+    "de_DE": "Maple Knuckles",
+    "fr_FR": "Maple Knuckles",
+    "zh_CN": "Maple Knuckles",
+    "zh_TW": "Maple Knuckles",
+    "ja_JP": "Maple Knuckles",
+    "ko_KR": "Maple Knuckles"
+   },
+   "description": {
+    "en_US": "Stitched from Autumn's Rise leaves that never fall.",
+    "de_DE": "Stitched from Autumn's Rise leaves that never fall.",
+    "fr_FR": "Stitched from Autumn's Rise leaves that never fall.",
+    "zh_CN": "Stitched from Autumn's Rise leaves that never fall.",
+    "zh_TW": "Stitched from Autumn's Rise leaves that never fall.",
+    "ja_JP": "Stitched from Autumn's Rise leaves that never fall.",
+    "ko_KR": "Stitched from Autumn's Rise leaves that never fall."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 2,
+   "level": 10,
+   "cost": 500,
+   "order": 440,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 7,
+    "focus": 7
+   },
+   "properties": {
+    "CRITICAL_DMG": 1.26,
+    "BREAK_DMG": 1.17
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "autumn-area:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 90000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "autumn-area",
+     "name": "Autumn's Rise"
+    },
+    "set": "area:autumn-area",
+    "minLevel": 10
+   },
+   "name": {
+    "en_US": "Maple Crown",
+    "de_DE": "Maple Crown",
+    "fr_FR": "Maple Crown",
+    "zh_CN": "Maple Crown",
+    "zh_TW": "Maple Crown",
+    "ja_JP": "Maple Crown",
+    "ko_KR": "Maple Crown"
+   },
+   "description": {
+    "en_US": "Stitched from Autumn's Rise leaves that never fall.",
+    "de_DE": "Stitched from Autumn's Rise leaves that never fall.",
+    "fr_FR": "Stitched from Autumn's Rise leaves that never fall.",
+    "zh_CN": "Stitched from Autumn's Rise leaves that never fall.",
+    "zh_TW": "Stitched from Autumn's Rise leaves that never fall.",
+    "ja_JP": "Stitched from Autumn's Rise leaves that never fall.",
+    "ko_KR": "Stitched from Autumn's Rise leaves that never fall."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 2,
+   "level": 10,
+   "cost": 500,
+   "order": 441,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 7,
+    "focus": 5
+   },
+   "properties": {
+    "CRITICAL_DMG": 1.17,
+    "GUARD_SP": 1.13
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "autumn-area:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 90000,
+    "req": {
+     "type": "areaCards",
+     "area": "autumn-area",
+     "name": "Autumn's Rise"
+    },
+    "set": "area:autumn-area",
+    "minLevel": 10
+   },
+   "name": {
+    "en_US": "Maple Vest",
+    "de_DE": "Maple Vest",
+    "fr_FR": "Maple Vest",
+    "zh_CN": "Maple Vest",
+    "zh_TW": "Maple Vest",
+    "ja_JP": "Maple Vest",
+    "ko_KR": "Maple Vest"
+   },
+   "description": {
+    "en_US": "Stitched from Autumn's Rise leaves that never fall.",
+    "de_DE": "Stitched from Autumn's Rise leaves that never fall.",
+    "fr_FR": "Stitched from Autumn's Rise leaves that never fall.",
+    "zh_CN": "Stitched from Autumn's Rise leaves that never fall.",
+    "zh_TW": "Stitched from Autumn's Rise leaves that never fall.",
+    "ja_JP": "Stitched from Autumn's Rise leaves that never fall.",
+    "ko_KR": "Stitched from Autumn's Rise leaves that never fall."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 2,
+   "level": 10,
+   "cost": 500,
+   "order": 442,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 51,
+    "defense": 8
+   },
+   "properties": {
+    "COND_HEALING": 1.26,
+    "ITEM_BOOST": 1.13
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "autumn-area:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 90000,
+    "req": {
+     "type": "areaChests",
+     "area": "autumn-area",
+     "name": "Autumn's Rise"
+    },
+    "set": "area:autumn-area",
+    "minLevel": 10
+   },
+   "name": {
+    "en_US": "Maple Striders",
+    "de_DE": "Maple Striders",
+    "fr_FR": "Maple Striders",
+    "zh_CN": "Maple Striders",
+    "zh_TW": "Maple Striders",
+    "ja_JP": "Maple Striders",
+    "ko_KR": "Maple Striders"
+   },
+   "description": {
+    "en_US": "Stitched from Autumn's Rise leaves that never fall.",
+    "de_DE": "Stitched from Autumn's Rise leaves that never fall.",
+    "fr_FR": "Stitched from Autumn's Rise leaves that never fall.",
+    "zh_CN": "Stitched from Autumn's Rise leaves that never fall.",
+    "zh_TW": "Stitched from Autumn's Rise leaves that never fall.",
+    "ja_JP": "Stitched from Autumn's Rise leaves that never fall.",
+    "ko_KR": "Stitched from Autumn's Rise leaves that never fall."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 2,
+   "level": 10,
+   "cost": 500,
+   "order": 443,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 54,
+    "defense": 5,
+    "focus": 3
+   },
+   "properties": {
+    "AIMING_MOVEMENT": 1.17,
+    "GUARD_SP": 1.13
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "bergen-trails:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 144000,
+    "req": {
+     "type": "areaStars",
+     "area": "bergen-trails",
+     "name": "Bergen Trails"
+    },
+    "set": "area:bergen-trails",
+    "minLevel": 16
+   },
+   "name": {
+    "en_US": "Frostpine Axe",
+    "de_DE": "Frostpine Axe",
+    "fr_FR": "Frostpine Axe",
+    "zh_CN": "Frostpine Axe",
+    "zh_TW": "Frostpine Axe",
+    "ja_JP": "Frostpine Axe",
+    "ko_KR": "Frostpine Axe"
+   },
+   "description": {
+    "en_US": "Pine-scented and frost-proof, for the mountain paths.",
+    "de_DE": "Pine-scented and frost-proof, for the mountain paths.",
+    "fr_FR": "Pine-scented and frost-proof, for the mountain paths.",
+    "zh_CN": "Pine-scented and frost-proof, for the mountain paths.",
+    "zh_TW": "Pine-scented and frost-proof, for the mountain paths.",
+    "ja_JP": "Pine-scented and frost-proof, for the mountain paths.",
+    "ko_KR": "Pine-scented and frost-proof, for the mountain paths."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 2,
+   "level": 16,
+   "cost": 500,
+   "order": 464,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 9,
+    "defense": 10,
+    "focus": 10
+   },
+   "properties": {
+    "RANGED_DMG": 1.13,
+    "SPIKE_DMG": 1.22
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "bergen-trails:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 144000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "bergen-trails",
+     "name": "Bergen Trails"
+    },
+    "set": "area:bergen-trails",
+    "minLevel": 16
+   },
+   "name": {
+    "en_US": "Frostpine Hood",
+    "de_DE": "Frostpine Hood",
+    "fr_FR": "Frostpine Hood",
+    "zh_CN": "Frostpine Hood",
+    "zh_TW": "Frostpine Hood",
+    "ja_JP": "Frostpine Hood",
+    "ko_KR": "Frostpine Hood"
+   },
+   "description": {
+    "en_US": "Pine-scented and frost-proof, for the mountain paths.",
+    "de_DE": "Pine-scented and frost-proof, for the mountain paths.",
+    "fr_FR": "Pine-scented and frost-proof, for the mountain paths.",
+    "zh_CN": "Pine-scented and frost-proof, for the mountain paths.",
+    "zh_TW": "Pine-scented and frost-proof, for the mountain paths.",
+    "ja_JP": "Pine-scented and frost-proof, for the mountain paths.",
+    "ko_KR": "Pine-scented and frost-proof, for the mountain paths."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 2,
+   "level": 16,
+   "cost": 500,
+   "order": 465,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 5,
+    "defense": 1,
+    "focus": 20
+   },
+   "properties": {
+    "XP_PLUS": 1.13,
+    "AIM_SPEED": 1.18
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "bergen-trails:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 144000,
+    "req": {
+     "type": "areaCards",
+     "area": "bergen-trails",
+     "name": "Bergen Trails"
+    },
+    "set": "area:bergen-trails",
+    "minLevel": 16
+   },
+   "name": {
+    "en_US": "Frostpine Parka",
+    "de_DE": "Frostpine Parka",
+    "fr_FR": "Frostpine Parka",
+    "zh_CN": "Frostpine Parka",
+    "zh_TW": "Frostpine Parka",
+    "ja_JP": "Frostpine Parka",
+    "ko_KR": "Frostpine Parka"
+   },
+   "description": {
+    "en_US": "Pine-scented and frost-proof, for the mountain paths.",
+    "de_DE": "Pine-scented and frost-proof, for the mountain paths.",
+    "fr_FR": "Pine-scented and frost-proof, for the mountain paths.",
+    "zh_CN": "Pine-scented and frost-proof, for the mountain paths.",
+    "zh_TW": "Pine-scented and frost-proof, for the mountain paths.",
+    "ja_JP": "Pine-scented and frost-proof, for the mountain paths.",
+    "ko_KR": "Pine-scented and frost-proof, for the mountain paths."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 2,
+   "level": 16,
+   "cost": 500,
+   "order": 466,
+   "params": {
+    "elemFactor": [
+     1,
+     1.1,
+     1,
+     1
+    ],
+    "hp": 138,
+    "defense": 5,
+    "focus": 7
+   },
+   "properties": {
+    "GUARD_STRENGTH": 1.18,
+    "COND_HEALING": 1.27
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "bergen-trails:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 144000,
+    "req": {
+     "type": "areaChests",
+     "area": "bergen-trails",
+     "name": "Bergen Trails"
+    },
+    "set": "area:bergen-trails",
+    "minLevel": 16
+   },
+   "name": {
+    "en_US": "Frostpine Boots",
+    "de_DE": "Frostpine Boots",
+    "fr_FR": "Frostpine Boots",
+    "zh_CN": "Frostpine Boots",
+    "zh_TW": "Frostpine Boots",
+    "ja_JP": "Frostpine Boots",
+    "ko_KR": "Frostpine Boots"
+   },
+   "description": {
+    "en_US": "Pine-scented and frost-proof, for the mountain paths.",
+    "de_DE": "Pine-scented and frost-proof, for the mountain paths.",
+    "fr_FR": "Pine-scented and frost-proof, for the mountain paths.",
+    "zh_CN": "Pine-scented and frost-proof, for the mountain paths.",
+    "zh_TW": "Pine-scented and frost-proof, for the mountain paths.",
+    "ja_JP": "Pine-scented and frost-proof, for the mountain paths.",
+    "ko_KR": "Pine-scented and frost-proof, for the mountain paths."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 2,
+   "level": 16,
+   "cost": 500,
+   "order": 467,
+   "params": {
+    "elemFactor": [
+     1,
+     1.1,
+     1,
+     1
+    ],
+    "hp": 138,
+    "defense": 5,
+    "focus": 7
+   },
+   "properties": {
+    "MOMENTUM": 1.09,
+    "COND_HEALING": 1.22
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "bergen:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 162000,
+    "req": {
+     "type": "areaStars",
+     "area": "bergen",
+     "name": "Bergen Village"
+    },
+    "set": "area:bergen",
+    "minLevel": 18
+   },
+   "name": {
+    "en_US": "Hearthguard Mitts",
+    "de_DE": "Hearthguard Mitts",
+    "fr_FR": "Hearthguard Mitts",
+    "zh_CN": "Hearthguard Mitts",
+    "zh_TW": "Hearthguard Mitts",
+    "ja_JP": "Hearthguard Mitts",
+    "ko_KR": "Hearthguard Mitts"
+   },
+   "description": {
+    "en_US": "Knitted by the fire in Bergen. Warm as a hug.",
+    "de_DE": "Knitted by the fire in Bergen. Warm as a hug.",
+    "fr_FR": "Knitted by the fire in Bergen. Warm as a hug.",
+    "zh_CN": "Knitted by the fire in Bergen. Warm as a hug.",
+    "zh_TW": "Knitted by the fire in Bergen. Warm as a hug.",
+    "ja_JP": "Knitted by the fire in Bergen. Warm as a hug.",
+    "ko_KR": "Knitted by the fire in Bergen. Warm as a hug."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 2,
+   "level": 18,
+   "cost": 500,
+   "order": 472,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 54,
+    "attack": 20,
+    "defense": 8
+   },
+   "properties": {
+    "ASSAULT": 1.14,
+    "RANGED_DMG": 1.14
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "bergen:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 162000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "bergen",
+     "name": "Bergen Village"
+    },
+    "set": "area:bergen",
+    "minLevel": 18
+   },
+   "name": {
+    "en_US": "Hearth Beanie",
+    "de_DE": "Hearth Beanie",
+    "fr_FR": "Hearth Beanie",
+    "zh_CN": "Hearth Beanie",
+    "zh_TW": "Hearth Beanie",
+    "ja_JP": "Hearth Beanie",
+    "ko_KR": "Hearth Beanie"
+   },
+   "description": {
+    "en_US": "Knitted by the fire in Bergen. Warm as a hug.",
+    "de_DE": "Knitted by the fire in Bergen. Warm as a hug.",
+    "fr_FR": "Knitted by the fire in Bergen. Warm as a hug.",
+    "zh_CN": "Knitted by the fire in Bergen. Warm as a hug.",
+    "zh_TW": "Knitted by the fire in Bergen. Warm as a hug.",
+    "ja_JP": "Knitted by the fire in Bergen. Warm as a hug.",
+    "ko_KR": "Knitted by the fire in Bergen. Warm as a hug."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 2,
+   "level": 18,
+   "cost": 500,
+   "order": 473,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 29,
+    "defense": 15,
+    "focus": 12
+   },
+   "properties": {
+    "PERFECT_GUARD_WINDOW": 1.18,
+    "GUARD_SP": 1.14
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "bergen:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 162000,
+    "req": {
+     "type": "areaCards",
+     "area": "bergen",
+     "name": "Bergen Village"
+    },
+    "set": "area:bergen",
+    "minLevel": 18
+   },
+   "name": {
+    "en_US": "Hearth Sweater",
+    "de_DE": "Hearth Sweater",
+    "fr_FR": "Hearth Sweater",
+    "zh_CN": "Hearth Sweater",
+    "zh_TW": "Hearth Sweater",
+    "ja_JP": "Hearth Sweater",
+    "ko_KR": "Hearth Sweater"
+   },
+   "description": {
+    "en_US": "Knitted by the fire in Bergen. Warm as a hug.",
+    "de_DE": "Knitted by the fire in Bergen. Warm as a hug.",
+    "fr_FR": "Knitted by the fire in Bergen. Warm as a hug.",
+    "zh_CN": "Knitted by the fire in Bergen. Warm as a hug.",
+    "zh_TW": "Knitted by the fire in Bergen. Warm as a hug.",
+    "ja_JP": "Knitted by the fire in Bergen. Warm as a hug.",
+    "ko_KR": "Knitted by the fire in Bergen. Warm as a hug."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 2,
+   "level": 18,
+   "cost": 500,
+   "order": 474,
+   "params": {
+    "elemFactor": [
+     1,
+     1.1,
+     1,
+     1
+    ],
+    "hp": 109,
+    "attack": 9,
+    "defense": 12
+   },
+   "properties": {
+    "DASH_INVINC": 1.14,
+    "SP_REGEN": 1.09
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "bergen:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 162000,
+    "req": {
+     "type": "areaChests",
+     "area": "bergen",
+     "name": "Bergen Village"
+    },
+    "set": "area:bergen",
+    "minLevel": 18
+   },
+   "name": {
+    "en_US": "Hearth Clogs",
+    "de_DE": "Hearth Clogs",
+    "fr_FR": "Hearth Clogs",
+    "zh_CN": "Hearth Clogs",
+    "zh_TW": "Hearth Clogs",
+    "ja_JP": "Hearth Clogs",
+    "ko_KR": "Hearth Clogs"
+   },
+   "description": {
+    "en_US": "Knitted by the fire in Bergen. Warm as a hug.",
+    "de_DE": "Knitted by the fire in Bergen. Warm as a hug.",
+    "fr_FR": "Knitted by the fire in Bergen. Warm as a hug.",
+    "zh_CN": "Knitted by the fire in Bergen. Warm as a hug.",
+    "zh_TW": "Knitted by the fire in Bergen. Warm as a hug.",
+    "ja_JP": "Knitted by the fire in Bergen. Warm as a hug.",
+    "ko_KR": "Knitted by the fire in Bergen. Warm as a hug."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 2,
+   "level": 18,
+   "cost": 500,
+   "order": 475,
+   "params": {
+    "elemFactor": [
+     1,
+     1.1,
+     1,
+     1
+    ],
+    "hp": 116,
+    "attack": 4,
+    "defense": 4,
+    "focus": 11
+   },
+   "properties": {
+    "HP_REGEN": 1.14,
+    "DROP_CHANCE": 1.14
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "cold-dng:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 198000,
+    "req": {
+     "type": "areaStars",
+     "area": "cold-dng",
+     "name": "Temple Mine"
+    },
+    "set": "area:cold-dng",
+    "minLevel": 22
+   },
+   "name": {
+    "en_US": "Glacial Pick",
+    "de_DE": "Glacial Pick",
+    "fr_FR": "Glacial Pick",
+    "zh_CN": "Glacial Pick",
+    "zh_TW": "Glacial Pick",
+    "ja_JP": "Glacial Pick",
+    "ko_KR": "Glacial Pick"
+   },
+   "description": {
+    "en_US": "Hewn from the Temple Mine's oldest ice.",
+    "de_DE": "Hewn from the Temple Mine's oldest ice.",
+    "fr_FR": "Hewn from the Temple Mine's oldest ice.",
+    "zh_CN": "Hewn from the Temple Mine's oldest ice.",
+    "zh_TW": "Hewn from the Temple Mine's oldest ice.",
+    "ja_JP": "Hewn from the Temple Mine's oldest ice.",
+    "ko_KR": "Hewn from the Temple Mine's oldest ice."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 2,
+   "level": 22,
+   "cost": 500,
+   "order": 488,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 29,
+    "defense": 12
+   },
+   "properties": {
+    "BREAK_DMG": 1.19,
+    "KNOCKBACK": 1.28
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "cold-dng:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 198000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "cold-dng",
+     "name": "Temple Mine"
+    },
+    "set": "area:cold-dng",
+    "minLevel": 22
+   },
+   "name": {
+    "en_US": "Glacial Visor",
+    "de_DE": "Glacial Visor",
+    "fr_FR": "Glacial Visor",
+    "zh_CN": "Glacial Visor",
+    "zh_TW": "Glacial Visor",
+    "ja_JP": "Glacial Visor",
+    "ko_KR": "Glacial Visor"
+   },
+   "description": {
+    "en_US": "Hewn from the Temple Mine's oldest ice.",
+    "de_DE": "Hewn from the Temple Mine's oldest ice.",
+    "fr_FR": "Hewn from the Temple Mine's oldest ice.",
+    "zh_CN": "Hewn from the Temple Mine's oldest ice.",
+    "zh_TW": "Hewn from the Temple Mine's oldest ice.",
+    "ja_JP": "Hewn from the Temple Mine's oldest ice.",
+    "ko_KR": "Hewn from the Temple Mine's oldest ice."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 2,
+   "level": 22,
+   "cost": 500,
+   "order": 489,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 2,
+    "focus": 41
+   },
+   "properties": {
+    "AIM_STABILITY": 1.28,
+    "OVERHEAT_REDUCTION": 1.14
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "cold-dng:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 198000,
+    "req": {
+     "type": "areaCards",
+     "area": "cold-dng",
+     "name": "Temple Mine"
+    },
+    "set": "area:cold-dng",
+    "minLevel": 22
+   },
+   "name": {
+    "en_US": "Glacial Plate",
+    "de_DE": "Glacial Plate",
+    "fr_FR": "Glacial Plate",
+    "zh_CN": "Glacial Plate",
+    "zh_TW": "Glacial Plate",
+    "ja_JP": "Glacial Plate",
+    "ko_KR": "Glacial Plate"
+   },
+   "description": {
+    "en_US": "Hewn from the Temple Mine's oldest ice.",
+    "de_DE": "Hewn from the Temple Mine's oldest ice.",
+    "fr_FR": "Hewn from the Temple Mine's oldest ice.",
+    "zh_CN": "Hewn from the Temple Mine's oldest ice.",
+    "zh_TW": "Hewn from the Temple Mine's oldest ice.",
+    "ja_JP": "Hewn from the Temple Mine's oldest ice.",
+    "ko_KR": "Hewn from the Temple Mine's oldest ice."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 2,
+   "level": 22,
+   "cost": 500,
+   "order": 490,
+   "params": {
+    "elemFactor": [
+     1,
+     1.1,
+     1,
+     1
+    ],
+    "hp": 296,
+    "defense": 10
+   },
+   "properties": {
+    "SP_REGEN": 1.09,
+    "OVERHEAT_REDUCTION": 1.19
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "cold-dng:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 198000,
+    "req": {
+     "type": "areaChests",
+     "area": "cold-dng",
+     "name": "Temple Mine"
+    },
+    "set": "area:cold-dng",
+    "minLevel": 22
+   },
+   "name": {
+    "en_US": "Glacial Spikes",
+    "de_DE": "Glacial Spikes",
+    "fr_FR": "Glacial Spikes",
+    "zh_CN": "Glacial Spikes",
+    "zh_TW": "Glacial Spikes",
+    "ja_JP": "Glacial Spikes",
+    "ko_KR": "Glacial Spikes"
+   },
+   "description": {
+    "en_US": "Hewn from the Temple Mine's oldest ice.",
+    "de_DE": "Hewn from the Temple Mine's oldest ice.",
+    "fr_FR": "Hewn from the Temple Mine's oldest ice.",
+    "zh_CN": "Hewn from the Temple Mine's oldest ice.",
+    "zh_TW": "Hewn from the Temple Mine's oldest ice.",
+    "ja_JP": "Hewn from the Temple Mine's oldest ice.",
+    "ko_KR": "Hewn from the Temple Mine's oldest ice."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 2,
+   "level": 22,
+   "cost": 500,
+   "order": 491,
+   "params": {
+    "elemFactor": [
+     1,
+     1.1,
+     1,
+     1
+    ],
+    "hp": 194,
+    "defense": 5,
+    "focus": 19
+   },
+   "properties": {
+    "COND_HEALING": 1.23,
+    "DASH_INVINC": 1.19
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "heat-area:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 319000,
+    "req": {
+     "type": "areaStars",
+     "area": "heat-area",
+     "name": "Maroon Valley"
+    },
+    "set": "area:heat-area",
+    "minLevel": 29
+   },
+   "name": {
+    "en_US": "Maroon Scimitar",
+    "de_DE": "Maroon Scimitar",
+    "fr_FR": "Maroon Scimitar",
+    "zh_CN": "Maroon Scimitar",
+    "zh_TW": "Maroon Scimitar",
+    "ja_JP": "Maroon Scimitar",
+    "ko_KR": "Maroon Scimitar"
+   },
+   "description": {
+    "en_US": "Sun-bleached cloth and desert steel.",
+    "de_DE": "Sun-bleached cloth and desert steel.",
+    "fr_FR": "Sun-bleached cloth and desert steel.",
+    "zh_CN": "Sun-bleached cloth and desert steel.",
+    "zh_TW": "Sun-bleached cloth and desert steel.",
+    "ja_JP": "Sun-bleached cloth and desert steel.",
+    "ko_KR": "Sun-bleached cloth and desert steel."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 29,
+   "cost": 500,
+   "order": 516,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 34,
+    "focus": 35
+   },
+   "properties": {
+    "KNOCKBACK": 1.29,
+    "MELEE_DMG": 1.14
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "heat-area:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 319000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "heat-area",
+     "name": "Maroon Valley"
+    },
+    "set": "area:heat-area",
+    "minLevel": 29
+   },
+   "name": {
+    "en_US": "Maroon Turban",
+    "de_DE": "Maroon Turban",
+    "fr_FR": "Maroon Turban",
+    "zh_CN": "Maroon Turban",
+    "zh_TW": "Maroon Turban",
+    "ja_JP": "Maroon Turban",
+    "ko_KR": "Maroon Turban"
+   },
+   "description": {
+    "en_US": "Sun-bleached cloth and desert steel.",
+    "de_DE": "Sun-bleached cloth and desert steel.",
+    "fr_FR": "Sun-bleached cloth and desert steel.",
+    "zh_CN": "Sun-bleached cloth and desert steel.",
+    "zh_TW": "Sun-bleached cloth and desert steel.",
+    "ja_JP": "Sun-bleached cloth and desert steel.",
+    "ko_KR": "Sun-bleached cloth and desert steel."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 3,
+   "level": 29,
+   "cost": 500,
+   "order": 517,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 33,
+    "focus": 25
+   },
+   "properties": {
+    "GUARD_SP": 1.14,
+    "CRITICAL_DMG": 1.19
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "heat-area:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 319000,
+    "req": {
+     "type": "areaCards",
+     "area": "heat-area",
+     "name": "Maroon Valley"
+    },
+    "set": "area:heat-area",
+    "minLevel": 29
+   },
+   "name": {
+    "en_US": "Maroon Wrap",
+    "de_DE": "Maroon Wrap",
+    "fr_FR": "Maroon Wrap",
+    "zh_CN": "Maroon Wrap",
+    "zh_TW": "Maroon Wrap",
+    "ja_JP": "Maroon Wrap",
+    "ko_KR": "Maroon Wrap"
+   },
+   "description": {
+    "en_US": "Sun-bleached cloth and desert steel.",
+    "de_DE": "Sun-bleached cloth and desert steel.",
+    "fr_FR": "Sun-bleached cloth and desert steel.",
+    "zh_CN": "Sun-bleached cloth and desert steel.",
+    "zh_TW": "Sun-bleached cloth and desert steel.",
+    "ja_JP": "Sun-bleached cloth and desert steel.",
+    "ko_KR": "Sun-bleached cloth and desert steel."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 3,
+   "level": 29,
+   "cost": 500,
+   "order": 518,
+   "params": {
+    "elemFactor": [
+     1.1,
+     1,
+     1,
+     1
+    ],
+    "hp": 253,
+    "defense": 41
+   },
+   "properties": {
+    "COND_EFFECT_ALL": 1.19,
+    "GUARD_STRENGTH": 1.19
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "heat-area:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 319000,
+    "req": {
+     "type": "areaChests",
+     "area": "heat-area",
+     "name": "Maroon Valley"
+    },
+    "set": "area:heat-area",
+    "minLevel": 29
+   },
+   "name": {
+    "en_US": "Maroon Sandals",
+    "de_DE": "Maroon Sandals",
+    "fr_FR": "Maroon Sandals",
+    "zh_CN": "Maroon Sandals",
+    "zh_TW": "Maroon Sandals",
+    "ja_JP": "Maroon Sandals",
+    "ko_KR": "Maroon Sandals"
+   },
+   "description": {
+    "en_US": "Sun-bleached cloth and desert steel.",
+    "de_DE": "Sun-bleached cloth and desert steel.",
+    "fr_FR": "Sun-bleached cloth and desert steel.",
+    "zh_CN": "Sun-bleached cloth and desert steel.",
+    "zh_TW": "Sun-bleached cloth and desert steel.",
+    "ja_JP": "Sun-bleached cloth and desert steel.",
+    "ko_KR": "Sun-bleached cloth and desert steel."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 3,
+   "level": 29,
+   "cost": 500,
+   "order": 519,
+   "params": {
+    "elemFactor": [
+     1.1,
+     1,
+     1,
+     1
+    ],
+    "hp": 268,
+    "defense": 25,
+    "focus": 13
+   },
+   "properties": {
+    "DROP_CHANCE": 1.14,
+    "HP_REGEN": 1.14
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "heat-village:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 341000,
+    "req": {
+     "type": "areaStars",
+     "area": "heat-village",
+     "name": "Ba'kii Kum"
+    },
+    "set": "area:heat-village",
+    "minLevel": 31
+   },
+   "name": {
+    "en_US": "Oasis Bangles",
+    "de_DE": "Oasis Bangles",
+    "fr_FR": "Oasis Bangles",
+    "zh_CN": "Oasis Bangles",
+    "zh_TW": "Oasis Bangles",
+    "ja_JP": "Oasis Bangles",
+    "ko_KR": "Oasis Bangles"
+   },
+   "description": {
+    "en_US": "Traded at Ba'kii Kum for a lot of water.",
+    "de_DE": "Traded at Ba'kii Kum for a lot of water.",
+    "fr_FR": "Traded at Ba'kii Kum for a lot of water.",
+    "zh_CN": "Traded at Ba'kii Kum for a lot of water.",
+    "zh_TW": "Traded at Ba'kii Kum for a lot of water.",
+    "ja_JP": "Traded at Ba'kii Kum for a lot of water.",
+    "ko_KR": "Traded at Ba'kii Kum for a lot of water."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 31,
+   "cost": 500,
+   "order": 524,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 25,
+    "defense": 28,
+    "focus": 28
+   },
+   "properties": {
+    "CROSS_COUNTER": 1.2,
+    "ASSAULT": 1.15
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "heat-village:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 341000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "heat-village",
+     "name": "Ba'kii Kum"
+    },
+    "set": "area:heat-village",
+    "minLevel": 31
+   },
+   "name": {
+    "en_US": "Oasis Veil",
+    "de_DE": "Oasis Veil",
+    "fr_FR": "Oasis Veil",
+    "zh_CN": "Oasis Veil",
+    "zh_TW": "Oasis Veil",
+    "ja_JP": "Oasis Veil",
+    "ko_KR": "Oasis Veil"
+   },
+   "description": {
+    "en_US": "Traded at Ba'kii Kum for a lot of water.",
+    "de_DE": "Traded at Ba'kii Kum for a lot of water.",
+    "fr_FR": "Traded at Ba'kii Kum for a lot of water.",
+    "zh_CN": "Traded at Ba'kii Kum for a lot of water.",
+    "zh_TW": "Traded at Ba'kii Kum for a lot of water.",
+    "ja_JP": "Traded at Ba'kii Kum for a lot of water.",
+    "ko_KR": "Traded at Ba'kii Kum for a lot of water."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 3,
+   "level": 31,
+   "cost": 500,
+   "order": 525,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 14,
+    "defense": 3,
+    "focus": 56
+   },
+   "properties": {
+    "OVERHEAT_REDUCTION": 1.15,
+    "AIM_STABILITY": 1.29
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "heat-village:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 341000,
+    "req": {
+     "type": "areaCards",
+     "area": "heat-village",
+     "name": "Ba'kii Kum"
+    },
+    "set": "area:heat-village",
+    "minLevel": 31
+   },
+   "name": {
+    "en_US": "Oasis Robe",
+    "de_DE": "Oasis Robe",
+    "fr_FR": "Oasis Robe",
+    "zh_CN": "Oasis Robe",
+    "zh_TW": "Oasis Robe",
+    "ja_JP": "Oasis Robe",
+    "ko_KR": "Oasis Robe"
+   },
+   "description": {
+    "en_US": "Traded at Ba'kii Kum for a lot of water.",
+    "de_DE": "Traded at Ba'kii Kum for a lot of water.",
+    "fr_FR": "Traded at Ba'kii Kum for a lot of water.",
+    "zh_CN": "Traded at Ba'kii Kum for a lot of water.",
+    "zh_TW": "Traded at Ba'kii Kum for a lot of water.",
+    "ja_JP": "Traded at Ba'kii Kum for a lot of water.",
+    "ko_KR": "Traded at Ba'kii Kum for a lot of water."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 3,
+   "level": 31,
+   "cost": 500,
+   "order": 526,
+   "params": {
+    "elemFactor": [
+     1.15,
+     1,
+     1,
+     1
+    ],
+    "hp": 380,
+    "defense": 14,
+    "focus": 19
+   },
+   "properties": {
+    "ITEM_BOOST": 1.15,
+    "COND_EFFECT_ALL": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "heat-village:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 341000,
+    "req": {
+     "type": "areaChests",
+     "area": "heat-village",
+     "name": "Ba'kii Kum"
+    },
+    "set": "area:heat-village",
+    "minLevel": 31
+   },
+   "name": {
+    "en_US": "Oasis Slippers",
+    "de_DE": "Oasis Slippers",
+    "fr_FR": "Oasis Slippers",
+    "zh_CN": "Oasis Slippers",
+    "zh_TW": "Oasis Slippers",
+    "ja_JP": "Oasis Slippers",
+    "ko_KR": "Oasis Slippers"
+   },
+   "description": {
+    "en_US": "Traded at Ba'kii Kum for a lot of water.",
+    "de_DE": "Traded at Ba'kii Kum for a lot of water.",
+    "fr_FR": "Traded at Ba'kii Kum for a lot of water.",
+    "zh_CN": "Traded at Ba'kii Kum for a lot of water.",
+    "zh_TW": "Traded at Ba'kii Kum for a lot of water.",
+    "ja_JP": "Traded at Ba'kii Kum for a lot of water.",
+    "ko_KR": "Traded at Ba'kii Kum for a lot of water."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 3,
+   "level": 31,
+   "cost": 500,
+   "order": 527,
+   "params": {
+    "elemFactor": [
+     1.15,
+     1,
+     1,
+     1
+    ],
+    "hp": 380,
+    "defense": 13,
+    "focus": 19
+   },
+   "properties": {
+    "SP_REGEN": 1.1,
+    "DASH_INVINC": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "heat-dng:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 385000,
+    "req": {
+     "type": "areaStars",
+     "area": "heat-dng",
+     "name": "Faj'ro Temple"
+    },
+    "set": "area:heat-dng",
+    "minLevel": 35
+   },
+   "name": {
+    "en_US": "Magma Fists",
+    "de_DE": "Magma Fists",
+    "fr_FR": "Magma Fists",
+    "zh_CN": "Magma Fists",
+    "zh_TW": "Magma Fists",
+    "ja_JP": "Magma Fists",
+    "ko_KR": "Magma Fists"
+   },
+   "description": {
+    "en_US": "Still glowing from the Faj'ro Temple's forges.",
+    "de_DE": "Still glowing from the Faj'ro Temple's forges.",
+    "fr_FR": "Still glowing from the Faj'ro Temple's forges.",
+    "zh_CN": "Still glowing from the Faj'ro Temple's forges.",
+    "zh_TW": "Still glowing from the Faj'ro Temple's forges.",
+    "ja_JP": "Still glowing from the Faj'ro Temple's forges.",
+    "ko_KR": "Still glowing from the Faj'ro Temple's forges."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 35,
+   "cost": 500,
+   "order": 540,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 151,
+    "attack": 54,
+    "defense": 23
+   },
+   "properties": {
+    "SPIKE_DMG": 1.25,
+    "CROSS_COUNTER": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "heat-dng:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 385000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "heat-dng",
+     "name": "Faj'ro Temple"
+    },
+    "set": "area:heat-dng",
+    "minLevel": 35
+   },
+   "name": {
+    "en_US": "Magma Helm",
+    "de_DE": "Magma Helm",
+    "fr_FR": "Magma Helm",
+    "zh_CN": "Magma Helm",
+    "zh_TW": "Magma Helm",
+    "ja_JP": "Magma Helm",
+    "ko_KR": "Magma Helm"
+   },
+   "description": {
+    "en_US": "Still glowing from the Faj'ro Temple's forges.",
+    "de_DE": "Still glowing from the Faj'ro Temple's forges.",
+    "fr_FR": "Still glowing from the Faj'ro Temple's forges.",
+    "zh_CN": "Still glowing from the Faj'ro Temple's forges.",
+    "zh_TW": "Still glowing from the Faj'ro Temple's forges.",
+    "ja_JP": "Still glowing from the Faj'ro Temple's forges.",
+    "ko_KR": "Still glowing from the Faj'ro Temple's forges."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 3,
+   "level": 35,
+   "cost": 500,
+   "order": 541,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 81,
+    "defense": 40,
+    "focus": 32
+   },
+   "properties": {
+    "MONEY_PLUS": 1.15,
+    "CRITICAL_DMG": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "heat-dng:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 385000,
+    "req": {
+     "type": "areaCards",
+     "area": "heat-dng",
+     "name": "Faj'ro Temple"
+    },
+    "set": "area:heat-dng",
+    "minLevel": 35
+   },
+   "name": {
+    "en_US": "Magma Cuirass",
+    "de_DE": "Magma Cuirass",
+    "fr_FR": "Magma Cuirass",
+    "zh_CN": "Magma Cuirass",
+    "zh_TW": "Magma Cuirass",
+    "ja_JP": "Magma Cuirass",
+    "ko_KR": "Magma Cuirass"
+   },
+   "description": {
+    "en_US": "Still glowing from the Faj'ro Temple's forges.",
+    "de_DE": "Still glowing from the Faj'ro Temple's forges.",
+    "fr_FR": "Still glowing from the Faj'ro Temple's forges.",
+    "zh_CN": "Still glowing from the Faj'ro Temple's forges.",
+    "zh_TW": "Still glowing from the Faj'ro Temple's forges.",
+    "ja_JP": "Still glowing from the Faj'ro Temple's forges.",
+    "ko_KR": "Still glowing from the Faj'ro Temple's forges."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 3,
+   "level": 35,
+   "cost": 500,
+   "order": 542,
+   "params": {
+    "elemFactor": [
+     1.15,
+     1,
+     1,
+     1
+    ],
+    "hp": 302,
+    "attack": 24,
+    "defense": 34
+   },
+   "properties": {
+    "OVERHEAT_REDUCTION": 1.2,
+    "HP_REGEN": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "heat-dng:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 385000,
+    "req": {
+     "type": "areaChests",
+     "area": "heat-dng",
+     "name": "Faj'ro Temple"
+    },
+    "set": "area:heat-dng",
+    "minLevel": 35
+   },
+   "name": {
+    "en_US": "Magma Greaves",
+    "de_DE": "Magma Greaves",
+    "fr_FR": "Magma Greaves",
+    "zh_CN": "Magma Greaves",
+    "zh_TW": "Magma Greaves",
+    "ja_JP": "Magma Greaves",
+    "ko_KR": "Magma Greaves"
+   },
+   "description": {
+    "en_US": "Still glowing from the Faj'ro Temple's forges.",
+    "de_DE": "Still glowing from the Faj'ro Temple's forges.",
+    "fr_FR": "Still glowing from the Faj'ro Temple's forges.",
+    "zh_CN": "Still glowing from the Faj'ro Temple's forges.",
+    "zh_TW": "Still glowing from the Faj'ro Temple's forges.",
+    "ja_JP": "Still glowing from the Faj'ro Temple's forges.",
+    "ko_KR": "Still glowing from the Faj'ro Temple's forges."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 3,
+   "level": 35,
+   "cost": 500,
+   "order": 543,
+   "params": {
+    "elemFactor": [
+     1.15,
+     1,
+     1,
+     1
+    ],
+    "hp": 322,
+    "attack": 11,
+    "defense": 11,
+    "focus": 31
+   },
+   "properties": {
+    "GUARD_SP": 1.15,
+    "AIMING_MOVEMENT": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "autumn-fall:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 275000,
+    "req": {
+     "type": "areaStars",
+     "area": "autumn-fall",
+     "name": "Autumn's Fall"
+    },
+    "set": "area:autumn-fall",
+    "minLevel": 25
+   },
+   "name": {
+    "en_US": "Amberleaf Blade",
+    "de_DE": "Amberleaf Blade",
+    "fr_FR": "Amberleaf Blade",
+    "zh_CN": "Amberleaf Blade",
+    "zh_TW": "Amberleaf Blade",
+    "ja_JP": "Amberleaf Blade",
+    "ko_KR": "Amberleaf Blade"
+   },
+   "description": {
+    "en_US": "Amber-dipped leaves from the Fall's tallest trees.",
+    "de_DE": "Amber-dipped leaves from the Fall's tallest trees.",
+    "fr_FR": "Amber-dipped leaves from the Fall's tallest trees.",
+    "zh_CN": "Amber-dipped leaves from the Fall's tallest trees.",
+    "zh_TW": "Amber-dipped leaves from the Fall's tallest trees.",
+    "ja_JP": "Amber-dipped leaves from the Fall's tallest trees.",
+    "ko_KR": "Amber-dipped leaves from the Fall's tallest trees."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 25,
+   "cost": 500,
+   "order": 500,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 36,
+    "defense": 15
+   },
+   "properties": {
+    "MELEE_DMG": 1.14,
+    "CRITICAL_DMG": 1.28
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "autumn-fall:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 275000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "autumn-fall",
+     "name": "Autumn's Fall"
+    },
+    "set": "area:autumn-fall",
+    "minLevel": 25
+   },
+   "name": {
+    "en_US": "Amberleaf Cap",
+    "de_DE": "Amberleaf Cap",
+    "fr_FR": "Amberleaf Cap",
+    "zh_CN": "Amberleaf Cap",
+    "zh_TW": "Amberleaf Cap",
+    "ja_JP": "Amberleaf Cap",
+    "ko_KR": "Amberleaf Cap"
+   },
+   "description": {
+    "en_US": "Amber-dipped leaves from the Fall's tallest trees.",
+    "de_DE": "Amber-dipped leaves from the Fall's tallest trees.",
+    "fr_FR": "Amber-dipped leaves from the Fall's tallest trees.",
+    "zh_CN": "Amber-dipped leaves from the Fall's tallest trees.",
+    "zh_TW": "Amber-dipped leaves from the Fall's tallest trees.",
+    "ja_JP": "Amber-dipped leaves from the Fall's tallest trees.",
+    "ko_KR": "Amber-dipped leaves from the Fall's tallest trees."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 3,
+   "level": 25,
+   "cost": 500,
+   "order": 501,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 2,
+    "focus": 52
+   },
+   "properties": {
+    "AIM_SPEED": 1.19,
+    "XP_PLUS": 1.14
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "autumn-fall:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 275000,
+    "req": {
+     "type": "areaCards",
+     "area": "autumn-fall",
+     "name": "Autumn's Fall"
+    },
+    "set": "area:autumn-fall",
+    "minLevel": 25
+   },
+   "name": {
+    "en_US": "Amberleaf Coat",
+    "de_DE": "Amberleaf Coat",
+    "fr_FR": "Amberleaf Coat",
+    "zh_CN": "Amberleaf Coat",
+    "zh_TW": "Amberleaf Coat",
+    "ja_JP": "Amberleaf Coat",
+    "ko_KR": "Amberleaf Coat"
+   },
+   "description": {
+    "en_US": "Amber-dipped leaves from the Fall's tallest trees.",
+    "de_DE": "Amber-dipped leaves from the Fall's tallest trees.",
+    "fr_FR": "Amber-dipped leaves from the Fall's tallest trees.",
+    "zh_CN": "Amber-dipped leaves from the Fall's tallest trees.",
+    "zh_TW": "Amber-dipped leaves from the Fall's tallest trees.",
+    "ja_JP": "Amber-dipped leaves from the Fall's tallest trees.",
+    "ko_KR": "Amber-dipped leaves from the Fall's tallest trees."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 3,
+   "level": 25,
+   "cost": 500,
+   "order": 502,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 377,
+    "defense": 12
+   },
+   "properties": {
+    "HP_REGEN": 1.19,
+    "DASH_INVINC": 1.14
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "autumn-fall:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 275000,
+    "req": {
+     "type": "areaChests",
+     "area": "autumn-fall",
+     "name": "Autumn's Fall"
+    },
+    "set": "area:autumn-fall",
+    "minLevel": 25
+   },
+   "name": {
+    "en_US": "Amberleaf Boots",
+    "de_DE": "Amberleaf Boots",
+    "fr_FR": "Amberleaf Boots",
+    "zh_CN": "Amberleaf Boots",
+    "zh_TW": "Amberleaf Boots",
+    "ja_JP": "Amberleaf Boots",
+    "ko_KR": "Amberleaf Boots"
+   },
+   "description": {
+    "en_US": "Amber-dipped leaves from the Fall's tallest trees.",
+    "de_DE": "Amber-dipped leaves from the Fall's tallest trees.",
+    "fr_FR": "Amber-dipped leaves from the Fall's tallest trees.",
+    "zh_CN": "Amber-dipped leaves from the Fall's tallest trees.",
+    "zh_TW": "Amber-dipped leaves from the Fall's tallest trees.",
+    "ja_JP": "Amber-dipped leaves from the Fall's tallest trees.",
+    "ko_KR": "Amber-dipped leaves from the Fall's tallest trees."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 3,
+   "level": 25,
+   "cost": 500,
+   "order": 503,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 247,
+    "defense": 7,
+    "focus": 24
+   },
+   "properties": {
+    "DASH_INVINC": 1.19,
+    "COND_HEALING": 1.24
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "jungle:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 462000,
+    "req": {
+     "type": "areaStars",
+     "area": "jungle",
+     "name": "Gaia's Garden"
+    },
+    "set": "area:jungle",
+    "minLevel": 42
+   },
+   "name": {
+    "en_US": "Gaia Thorn",
+    "de_DE": "Gaia Thorn",
+    "fr_FR": "Gaia Thorn",
+    "zh_CN": "Gaia Thorn",
+    "zh_TW": "Gaia Thorn",
+    "ja_JP": "Gaia Thorn",
+    "ko_KR": "Gaia Thorn"
+   },
+   "description": {
+    "en_US": "Grown, not made. Gaia's Garden insisted.",
+    "de_DE": "Grown, not made. Gaia's Garden insisted.",
+    "fr_FR": "Grown, not made. Gaia's Garden insisted.",
+    "zh_CN": "Grown, not made. Gaia's Garden insisted.",
+    "zh_TW": "Grown, not made. Gaia's Garden insisted.",
+    "ja_JP": "Grown, not made. Gaia's Garden insisted.",
+    "ko_KR": "Grown, not made. Gaia's Garden insisted."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 42,
+   "cost": 500,
+   "order": 568,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 59,
+    "focus": 60
+   },
+   "properties": {
+    "CRITICAL_DMG": 1.31,
+    "BREAK_DMG": 1.21
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "jungle:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 462000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "jungle",
+     "name": "Gaia's Garden"
+    },
+    "set": "area:jungle",
+    "minLevel": 42
+   },
+   "name": {
+    "en_US": "Gaia Bloom",
+    "de_DE": "Gaia Bloom",
+    "fr_FR": "Gaia Bloom",
+    "zh_CN": "Gaia Bloom",
+    "zh_TW": "Gaia Bloom",
+    "ja_JP": "Gaia Bloom",
+    "ko_KR": "Gaia Bloom"
+   },
+   "description": {
+    "en_US": "Grown, not made. Gaia's Garden insisted.",
+    "de_DE": "Grown, not made. Gaia's Garden insisted.",
+    "fr_FR": "Grown, not made. Gaia's Garden insisted.",
+    "zh_CN": "Grown, not made. Gaia's Garden insisted.",
+    "zh_TW": "Grown, not made. Gaia's Garden insisted.",
+    "ja_JP": "Grown, not made. Gaia's Garden insisted.",
+    "ko_KR": "Grown, not made. Gaia's Garden insisted."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 3,
+   "level": 42,
+   "cost": 500,
+   "order": 569,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 56,
+    "focus": 43
+   },
+   "properties": {
+    "CRITICAL_DMG": 1.21,
+    "GUARD_SP": 1.16
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "jungle:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 462000,
+    "req": {
+     "type": "areaCards",
+     "area": "jungle",
+     "name": "Gaia's Garden"
+    },
+    "set": "area:jungle",
+    "minLevel": 42
+   },
+   "name": {
+    "en_US": "Gaia Bark Mail",
+    "de_DE": "Gaia Bark Mail",
+    "fr_FR": "Gaia Bark Mail",
+    "zh_CN": "Gaia Bark Mail",
+    "zh_TW": "Gaia Bark Mail",
+    "ja_JP": "Gaia Bark Mail",
+    "ko_KR": "Gaia Bark Mail"
+   },
+   "description": {
+    "en_US": "Grown, not made. Gaia's Garden insisted.",
+    "de_DE": "Grown, not made. Gaia's Garden insisted.",
+    "fr_FR": "Grown, not made. Gaia's Garden insisted.",
+    "zh_CN": "Grown, not made. Gaia's Garden insisted.",
+    "zh_TW": "Grown, not made. Gaia's Garden insisted.",
+    "ja_JP": "Grown, not made. Gaia's Garden insisted.",
+    "ko_KR": "Grown, not made. Gaia's Garden insisted."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 3,
+   "level": 42,
+   "cost": 500,
+   "order": 570,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1.15
+    ],
+    "hp": 433,
+    "defense": 71
+   },
+   "properties": {
+    "COND_HEALING": 1.31,
+    "ITEM_BOOST": 1.16
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "jungle:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 462000,
+    "req": {
+     "type": "areaChests",
+     "area": "jungle",
+     "name": "Gaia's Garden"
+    },
+    "set": "area:jungle",
+    "minLevel": 42
+   },
+   "name": {
+    "en_US": "Gaia Roots",
+    "de_DE": "Gaia Roots",
+    "fr_FR": "Gaia Roots",
+    "zh_CN": "Gaia Roots",
+    "zh_TW": "Gaia Roots",
+    "ja_JP": "Gaia Roots",
+    "ko_KR": "Gaia Roots"
+   },
+   "description": {
+    "en_US": "Grown, not made. Gaia's Garden insisted.",
+    "de_DE": "Grown, not made. Gaia's Garden insisted.",
+    "fr_FR": "Grown, not made. Gaia's Garden insisted.",
+    "zh_CN": "Grown, not made. Gaia's Garden insisted.",
+    "zh_TW": "Grown, not made. Gaia's Garden insisted.",
+    "ja_JP": "Grown, not made. Gaia's Garden insisted.",
+    "ko_KR": "Grown, not made. Gaia's Garden insisted."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 3,
+   "level": 42,
+   "cost": 500,
+   "order": 571,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1.15
+    ],
+    "hp": 459,
+    "defense": 43,
+    "focus": 22
+   },
+   "properties": {
+    "AIMING_MOVEMENT": 1.21,
+    "GUARD_SP": 1.16
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "jungle-city:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 495000,
+    "req": {
+     "type": "areaStars",
+     "area": "jungle-city",
+     "name": "Basin Keep"
+    },
+    "set": "area:jungle-city",
+    "minLevel": 45
+   },
+   "name": {
+    "en_US": "Basin Baton",
+    "de_DE": "Basin Baton",
+    "fr_FR": "Basin Baton",
+    "zh_CN": "Basin Baton",
+    "zh_TW": "Basin Baton",
+    "ja_JP": "Basin Baton",
+    "ko_KR": "Basin Baton"
+   },
+   "description": {
+    "en_US": "Standard issue in Basin Keep. Very non-standard stats.",
+    "de_DE": "Standard issue in Basin Keep. Very non-standard stats.",
+    "fr_FR": "Standard issue in Basin Keep. Very non-standard stats.",
+    "zh_CN": "Standard issue in Basin Keep. Very non-standard stats.",
+    "zh_TW": "Standard issue in Basin Keep. Very non-standard stats.",
+    "ja_JP": "Standard issue in Basin Keep. Very non-standard stats.",
+    "ko_KR": "Standard issue in Basin Keep. Very non-standard stats."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 45,
+   "cost": 500,
+   "order": 580,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 43,
+    "defense": 48,
+    "focus": 48
+   },
+   "properties": {
+    "RANGED_DMG": 1.16,
+    "SPIKE_DMG": 1.26
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "jungle-city:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 495000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "jungle-city",
+     "name": "Basin Keep"
+    },
+    "set": "area:jungle-city",
+    "minLevel": 45
+   },
+   "name": {
+    "en_US": "Basin Beret",
+    "de_DE": "Basin Beret",
+    "fr_FR": "Basin Beret",
+    "zh_CN": "Basin Beret",
+    "zh_TW": "Basin Beret",
+    "ja_JP": "Basin Beret",
+    "ko_KR": "Basin Beret"
+   },
+   "description": {
+    "en_US": "Standard issue in Basin Keep. Very non-standard stats.",
+    "de_DE": "Standard issue in Basin Keep. Very non-standard stats.",
+    "fr_FR": "Standard issue in Basin Keep. Very non-standard stats.",
+    "zh_CN": "Standard issue in Basin Keep. Very non-standard stats.",
+    "zh_TW": "Standard issue in Basin Keep. Very non-standard stats.",
+    "ja_JP": "Standard issue in Basin Keep. Very non-standard stats.",
+    "ko_KR": "Standard issue in Basin Keep. Very non-standard stats."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 3,
+   "level": 45,
+   "cost": 500,
+   "order": 581,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 25,
+    "defense": 6,
+    "focus": 96
+   },
+   "properties": {
+    "XP_PLUS": 1.16,
+    "AIM_SPEED": 1.21
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "jungle-city:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 495000,
+    "req": {
+     "type": "areaCards",
+     "area": "jungle-city",
+     "name": "Basin Keep"
+    },
+    "set": "area:jungle-city",
+    "minLevel": 45
+   },
+   "name": {
+    "en_US": "Basin Uniform",
+    "de_DE": "Basin Uniform",
+    "fr_FR": "Basin Uniform",
+    "zh_CN": "Basin Uniform",
+    "zh_TW": "Basin Uniform",
+    "ja_JP": "Basin Uniform",
+    "ko_KR": "Basin Uniform"
+   },
+   "description": {
+    "en_US": "Standard issue in Basin Keep. Very non-standard stats.",
+    "de_DE": "Standard issue in Basin Keep. Very non-standard stats.",
+    "fr_FR": "Standard issue in Basin Keep. Very non-standard stats.",
+    "zh_CN": "Standard issue in Basin Keep. Very non-standard stats.",
+    "zh_TW": "Standard issue in Basin Keep. Very non-standard stats.",
+    "ja_JP": "Standard issue in Basin Keep. Very non-standard stats.",
+    "ko_KR": "Standard issue in Basin Keep. Very non-standard stats."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 3,
+   "level": 45,
+   "cost": 500,
+   "order": 582,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 652,
+    "defense": 23,
+    "focus": 33
+   },
+   "properties": {
+    "GUARD_STRENGTH": 1.21,
+    "COND_HEALING": 1.32
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "jungle-city:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 495000,
+    "req": {
+     "type": "areaChests",
+     "area": "jungle-city",
+     "name": "Basin Keep"
+    },
+    "set": "area:jungle-city",
+    "minLevel": 45
+   },
+   "name": {
+    "en_US": "Basin Loafers",
+    "de_DE": "Basin Loafers",
+    "fr_FR": "Basin Loafers",
+    "zh_CN": "Basin Loafers",
+    "zh_TW": "Basin Loafers",
+    "ja_JP": "Basin Loafers",
+    "ko_KR": "Basin Loafers"
+   },
+   "description": {
+    "en_US": "Standard issue in Basin Keep. Very non-standard stats.",
+    "de_DE": "Standard issue in Basin Keep. Very non-standard stats.",
+    "fr_FR": "Standard issue in Basin Keep. Very non-standard stats.",
+    "zh_CN": "Standard issue in Basin Keep. Very non-standard stats.",
+    "zh_TW": "Standard issue in Basin Keep. Very non-standard stats.",
+    "ja_JP": "Standard issue in Basin Keep. Very non-standard stats.",
+    "ko_KR": "Standard issue in Basin Keep. Very non-standard stats."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 3,
+   "level": 45,
+   "cost": 500,
+   "order": 583,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 652,
+    "defense": 22,
+    "focus": 33
+   },
+   "properties": {
+    "MOMENTUM": 1.11,
+    "COND_HEALING": 1.26
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "shock-dng:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 528000,
+    "req": {
+     "type": "areaStars",
+     "area": "shock-dng",
+     "name": "So'najiz Temple"
+    },
+    "set": "area:shock-dng",
+    "minLevel": 48
+   },
+   "name": {
+    "en_US": "Voltaic Claws",
+    "de_DE": "Voltaic Claws",
+    "fr_FR": "Voltaic Claws",
+    "zh_CN": "Voltaic Claws",
+    "zh_TW": "Voltaic Claws",
+    "ja_JP": "Voltaic Claws",
+    "ko_KR": "Voltaic Claws"
+   },
+   "description": {
+    "en_US": "Hums faintly. Do not lick.",
+    "de_DE": "Hums faintly. Do not lick.",
+    "fr_FR": "Hums faintly. Do not lick.",
+    "zh_CN": "Hums faintly. Do not lick.",
+    "zh_TW": "Hums faintly. Do not lick.",
+    "ja_JP": "Hums faintly. Do not lick.",
+    "ko_KR": "Hums faintly. Do not lick."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 48,
+   "cost": 528,
+   "order": 592,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 239,
+    "attack": 86,
+    "defense": 37
+   },
+   "properties": {
+    "ASSAULT": 1.16,
+    "RANGED_DMG": 1.16
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "shock-dng:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 528000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "shock-dng",
+     "name": "So'najiz Temple"
+    },
+    "set": "area:shock-dng",
+    "minLevel": 48
+   },
+   "name": {
+    "en_US": "Voltaic Mask",
+    "de_DE": "Voltaic Mask",
+    "fr_FR": "Voltaic Mask",
+    "zh_CN": "Voltaic Mask",
+    "zh_TW": "Voltaic Mask",
+    "ja_JP": "Voltaic Mask",
+    "ko_KR": "Voltaic Mask"
+   },
+   "description": {
+    "en_US": "Hums faintly. Do not lick.",
+    "de_DE": "Hums faintly. Do not lick.",
+    "fr_FR": "Hums faintly. Do not lick.",
+    "zh_CN": "Hums faintly. Do not lick.",
+    "zh_TW": "Hums faintly. Do not lick.",
+    "ja_JP": "Hums faintly. Do not lick.",
+    "ko_KR": "Hums faintly. Do not lick."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 3,
+   "level": 48,
+   "cost": 528,
+   "order": 593,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 127,
+    "defense": 64,
+    "focus": 51
+   },
+   "properties": {
+    "PERFECT_GUARD_WINDOW": 1.21,
+    "GUARD_SP": 1.16
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "shock-dng:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 528000,
+    "req": {
+     "type": "areaCards",
+     "area": "shock-dng",
+     "name": "So'najiz Temple"
+    },
+    "set": "area:shock-dng",
+    "minLevel": 48
+   },
+   "name": {
+    "en_US": "Voltaic Harness",
+    "de_DE": "Voltaic Harness",
+    "fr_FR": "Voltaic Harness",
+    "zh_CN": "Voltaic Harness",
+    "zh_TW": "Voltaic Harness",
+    "ja_JP": "Voltaic Harness",
+    "ko_KR": "Voltaic Harness"
+   },
+   "description": {
+    "en_US": "Hums faintly. Do not lick.",
+    "de_DE": "Hums faintly. Do not lick.",
+    "fr_FR": "Hums faintly. Do not lick.",
+    "zh_CN": "Hums faintly. Do not lick.",
+    "zh_TW": "Hums faintly. Do not lick.",
+    "ja_JP": "Hums faintly. Do not lick.",
+    "ko_KR": "Hums faintly. Do not lick."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 3,
+   "level": 48,
+   "cost": 528,
+   "order": 594,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1.15,
+     1
+    ],
+    "hp": 478,
+    "attack": 38,
+    "defense": 54
+   },
+   "properties": {
+    "DASH_INVINC": 1.16,
+    "SP_REGEN": 1.11
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "shock-dng:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 528000,
+    "req": {
+     "type": "areaChests",
+     "area": "shock-dng",
+     "name": "So'najiz Temple"
+    },
+    "set": "area:shock-dng",
+    "minLevel": 48
+   },
+   "name": {
+    "en_US": "Voltaic Skates",
+    "de_DE": "Voltaic Skates",
+    "fr_FR": "Voltaic Skates",
+    "zh_CN": "Voltaic Skates",
+    "zh_TW": "Voltaic Skates",
+    "ja_JP": "Voltaic Skates",
+    "ko_KR": "Voltaic Skates"
+   },
+   "description": {
+    "en_US": "Hums faintly. Do not lick.",
+    "de_DE": "Hums faintly. Do not lick.",
+    "fr_FR": "Hums faintly. Do not lick.",
+    "zh_CN": "Hums faintly. Do not lick.",
+    "zh_TW": "Hums faintly. Do not lick.",
+    "ja_JP": "Hums faintly. Do not lick.",
+    "ko_KR": "Hums faintly. Do not lick."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 3,
+   "level": 48,
+   "cost": 528,
+   "order": 595,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1.15,
+     1
+    ],
+    "hp": 509,
+    "attack": 18,
+    "defense": 18,
+    "focus": 49
+   },
+   "properties": {
+    "HP_REGEN": 1.16,
+    "DROP_CHANCE": 1.16
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "wave-dng:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 676000,
+    "req": {
+     "type": "areaStars",
+     "area": "wave-dng",
+     "name": "Zir'vitar Temple"
+    },
+    "set": "area:wave-dng",
+    "minLevel": 52
+   },
+   "name": {
+    "en_US": "Tidal Trident",
+    "de_DE": "Tidal Trident",
+    "fr_FR": "Tidal Trident",
+    "zh_CN": "Tidal Trident",
+    "zh_TW": "Tidal Trident",
+    "ja_JP": "Tidal Trident",
+    "ko_KR": "Tidal Trident"
+   },
+   "description": {
+    "en_US": "Polished by the tides of Zir'vitar.",
+    "de_DE": "Polished by the tides of Zir'vitar.",
+    "fr_FR": "Polished by the tides of Zir'vitar.",
+    "zh_CN": "Polished by the tides of Zir'vitar.",
+    "zh_TW": "Polished by the tides of Zir'vitar.",
+    "ja_JP": "Polished by the tides of Zir'vitar.",
+    "ko_KR": "Polished by the tides of Zir'vitar."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 4,
+   "level": 52,
+   "cost": 676,
+   "order": 608,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 112,
+    "defense": 48
+   },
+   "properties": {
+    "BREAK_DMG": 1.22,
+    "KNOCKBACK": 1.33
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "wave-dng:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 676000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "wave-dng",
+     "name": "Zir'vitar Temple"
+    },
+    "set": "area:wave-dng",
+    "minLevel": 52
+   },
+   "name": {
+    "en_US": "Tidal Diadem",
+    "de_DE": "Tidal Diadem",
+    "fr_FR": "Tidal Diadem",
+    "zh_CN": "Tidal Diadem",
+    "zh_TW": "Tidal Diadem",
+    "ja_JP": "Tidal Diadem",
+    "ko_KR": "Tidal Diadem"
+   },
+   "description": {
+    "en_US": "Polished by the tides of Zir'vitar.",
+    "de_DE": "Polished by the tides of Zir'vitar.",
+    "fr_FR": "Polished by the tides of Zir'vitar.",
+    "zh_CN": "Polished by the tides of Zir'vitar.",
+    "zh_TW": "Polished by the tides of Zir'vitar.",
+    "ja_JP": "Polished by the tides of Zir'vitar.",
+    "ko_KR": "Polished by the tides of Zir'vitar."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 4,
+   "level": 52,
+   "cost": 676,
+   "order": 609,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 8,
+    "focus": 160
+   },
+   "properties": {
+    "AIM_STABILITY": 1.33,
+    "OVERHEAT_REDUCTION": 1.16
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "wave-dng:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 676000,
+    "req": {
+     "type": "areaCards",
+     "area": "wave-dng",
+     "name": "Zir'vitar Temple"
+    },
+    "set": "area:wave-dng",
+    "minLevel": 52
+   },
+   "name": {
+    "en_US": "Tidal Scales",
+    "de_DE": "Tidal Scales",
+    "fr_FR": "Tidal Scales",
+    "zh_CN": "Tidal Scales",
+    "zh_TW": "Tidal Scales",
+    "ja_JP": "Tidal Scales",
+    "ko_KR": "Tidal Scales"
+   },
+   "description": {
+    "en_US": "Polished by the tides of Zir'vitar.",
+    "de_DE": "Polished by the tides of Zir'vitar.",
+    "fr_FR": "Polished by the tides of Zir'vitar.",
+    "zh_CN": "Polished by the tides of Zir'vitar.",
+    "zh_TW": "Polished by the tides of Zir'vitar.",
+    "ja_JP": "Polished by the tides of Zir'vitar.",
+    "ko_KR": "Polished by the tides of Zir'vitar."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 4,
+   "level": 52,
+   "cost": 676,
+   "order": 610,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1.15
+    ],
+    "hp": 1160,
+    "defense": 38
+   },
+   "properties": {
+    "SP_REGEN": 1.11,
+    "OVERHEAT_REDUCTION": 1.22
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "wave-dng:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 676000,
+    "req": {
+     "type": "areaChests",
+     "area": "wave-dng",
+     "name": "Zir'vitar Temple"
+    },
+    "set": "area:wave-dng",
+    "minLevel": 52
+   },
+   "name": {
+    "en_US": "Tidal Fins",
+    "de_DE": "Tidal Fins",
+    "fr_FR": "Tidal Fins",
+    "zh_CN": "Tidal Fins",
+    "zh_TW": "Tidal Fins",
+    "ja_JP": "Tidal Fins",
+    "ko_KR": "Tidal Fins"
+   },
+   "description": {
+    "en_US": "Polished by the tides of Zir'vitar.",
+    "de_DE": "Polished by the tides of Zir'vitar.",
+    "fr_FR": "Polished by the tides of Zir'vitar.",
+    "zh_CN": "Polished by the tides of Zir'vitar.",
+    "zh_TW": "Polished by the tides of Zir'vitar.",
+    "ja_JP": "Polished by the tides of Zir'vitar.",
+    "ko_KR": "Polished by the tides of Zir'vitar."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 4,
+   "level": 52,
+   "cost": 676,
+   "order": 611,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1.15
+    ],
+    "hp": 761,
+    "defense": 21,
+    "focus": 74
+   },
+   "properties": {
+    "COND_HEALING": 1.27,
+    "DASH_INVINC": 1.22
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "forest:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 429000,
+    "req": {
+     "type": "areaStars",
+     "area": "forest",
+     "name": "Sapphire Ridge"
+    },
+    "set": "area:forest",
+    "minLevel": 39
+   },
+   "name": {
+    "en_US": "Sapphire Saber",
+    "de_DE": "Sapphire Saber",
+    "fr_FR": "Sapphire Saber",
+    "zh_CN": "Sapphire Saber",
+    "zh_TW": "Sapphire Saber",
+    "ja_JP": "Sapphire Saber",
+    "ko_KR": "Sapphire Saber"
+   },
+   "description": {
+    "en_US": "Cut from the Ridge's bluest stone.",
+    "de_DE": "Cut from the Ridge's bluest stone.",
+    "fr_FR": "Cut from the Ridge's bluest stone.",
+    "zh_CN": "Cut from the Ridge's bluest stone.",
+    "zh_TW": "Cut from the Ridge's bluest stone.",
+    "ja_JP": "Cut from the Ridge's bluest stone.",
+    "ko_KR": "Cut from the Ridge's bluest stone."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 39,
+   "cost": 500,
+   "order": 556,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 53,
+    "focus": 54
+   },
+   "properties": {
+    "KNOCKBACK": 1.31,
+    "MELEE_DMG": 1.15
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "forest:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 429000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "forest",
+     "name": "Sapphire Ridge"
+    },
+    "set": "area:forest",
+    "minLevel": 39
+   },
+   "name": {
+    "en_US": "Sapphire Tiara",
+    "de_DE": "Sapphire Tiara",
+    "fr_FR": "Sapphire Tiara",
+    "zh_CN": "Sapphire Tiara",
+    "zh_TW": "Sapphire Tiara",
+    "ja_JP": "Sapphire Tiara",
+    "ko_KR": "Sapphire Tiara"
+   },
+   "description": {
+    "en_US": "Cut from the Ridge's bluest stone.",
+    "de_DE": "Cut from the Ridge's bluest stone.",
+    "fr_FR": "Cut from the Ridge's bluest stone.",
+    "zh_CN": "Cut from the Ridge's bluest stone.",
+    "zh_TW": "Cut from the Ridge's bluest stone.",
+    "ja_JP": "Cut from the Ridge's bluest stone.",
+    "ko_KR": "Cut from the Ridge's bluest stone."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 3,
+   "level": 39,
+   "cost": 500,
+   "order": 557,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 51,
+    "focus": 39
+   },
+   "properties": {
+    "GUARD_SP": 1.15,
+    "CRITICAL_DMG": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "forest:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 429000,
+    "req": {
+     "type": "areaCards",
+     "area": "forest",
+     "name": "Sapphire Ridge"
+    },
+    "set": "area:forest",
+    "minLevel": 39
+   },
+   "name": {
+    "en_US": "Sapphire Mail",
+    "de_DE": "Sapphire Mail",
+    "fr_FR": "Sapphire Mail",
+    "zh_CN": "Sapphire Mail",
+    "zh_TW": "Sapphire Mail",
+    "ja_JP": "Sapphire Mail",
+    "ko_KR": "Sapphire Mail"
+   },
+   "description": {
+    "en_US": "Cut from the Ridge's bluest stone.",
+    "de_DE": "Cut from the Ridge's bluest stone.",
+    "fr_FR": "Cut from the Ridge's bluest stone.",
+    "zh_CN": "Cut from the Ridge's bluest stone.",
+    "zh_TW": "Cut from the Ridge's bluest stone.",
+    "ja_JP": "Cut from the Ridge's bluest stone.",
+    "ko_KR": "Cut from the Ridge's bluest stone."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 3,
+   "level": 39,
+   "cost": 500,
+   "order": 558,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 389,
+    "defense": 64
+   },
+   "properties": {
+    "COND_EFFECT_ALL": 1.2,
+    "GUARD_STRENGTH": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "forest:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 429000,
+    "req": {
+     "type": "areaChests",
+     "area": "forest",
+     "name": "Sapphire Ridge"
+    },
+    "set": "area:forest",
+    "minLevel": 39
+   },
+   "name": {
+    "en_US": "Sapphire Sabatons",
+    "de_DE": "Sapphire Sabatons",
+    "fr_FR": "Sapphire Sabatons",
+    "zh_CN": "Sapphire Sabatons",
+    "zh_TW": "Sapphire Sabatons",
+    "ja_JP": "Sapphire Sabatons",
+    "ko_KR": "Sapphire Sabatons"
+   },
+   "description": {
+    "en_US": "Cut from the Ridge's bluest stone.",
+    "de_DE": "Cut from the Ridge's bluest stone.",
+    "fr_FR": "Cut from the Ridge's bluest stone.",
+    "zh_CN": "Cut from the Ridge's bluest stone.",
+    "zh_TW": "Cut from the Ridge's bluest stone.",
+    "ja_JP": "Cut from the Ridge's bluest stone.",
+    "ko_KR": "Cut from the Ridge's bluest stone."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 3,
+   "level": 39,
+   "cost": 500,
+   "order": 559,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 412,
+    "defense": 39,
+    "focus": 20
+   },
+   "properties": {
+    "DROP_CHANCE": 1.15,
+    "HP_REGEN": 1.15
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "tree-dng:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 806000,
+    "req": {
+     "type": "areaStars",
+     "area": "tree-dng",
+     "name": "Grand Krys'kajo"
+    },
+    "set": "area:tree-dng",
+    "minLevel": 62
+   },
+   "name": {
+    "en_US": "Rootcrystal Maul",
+    "de_DE": "Rootcrystal Maul",
+    "fr_FR": "Rootcrystal Maul",
+    "zh_CN": "Rootcrystal Maul",
+    "zh_TW": "Rootcrystal Maul",
+    "ja_JP": "Rootcrystal Maul",
+    "ko_KR": "Rootcrystal Maul"
+   },
+   "description": {
+    "en_US": "Crystal grown through ancient roots.",
+    "de_DE": "Crystal grown through ancient roots.",
+    "fr_FR": "Crystal grown through ancient roots.",
+    "zh_CN": "Crystal grown through ancient roots.",
+    "zh_TW": "Crystal grown through ancient roots.",
+    "ja_JP": "Crystal grown through ancient roots.",
+    "ko_KR": "Crystal grown through ancient roots."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 4,
+   "level": 62,
+   "cost": 806,
+   "order": 648,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 74,
+    "defense": 81,
+    "focus": 81
+   },
+   "properties": {
+    "CROSS_COUNTER": 1.23,
+    "ASSAULT": 1.17
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "tree-dng:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 806000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "tree-dng",
+     "name": "Grand Krys'kajo"
+    },
+    "set": "area:tree-dng",
+    "minLevel": 62
+   },
+   "name": {
+    "en_US": "Rootcrystal Crown",
+    "de_DE": "Rootcrystal Crown",
+    "fr_FR": "Rootcrystal Crown",
+    "zh_CN": "Rootcrystal Crown",
+    "zh_TW": "Rootcrystal Crown",
+    "ja_JP": "Rootcrystal Crown",
+    "ko_KR": "Rootcrystal Crown"
+   },
+   "description": {
+    "en_US": "Crystal grown through ancient roots.",
+    "de_DE": "Crystal grown through ancient roots.",
+    "fr_FR": "Crystal grown through ancient roots.",
+    "zh_CN": "Crystal grown through ancient roots.",
+    "zh_TW": "Crystal grown through ancient roots.",
+    "ja_JP": "Crystal grown through ancient roots.",
+    "ko_KR": "Crystal grown through ancient roots."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 4,
+   "level": 62,
+   "cost": 806,
+   "order": 649,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 42,
+    "defense": 10,
+    "focus": 162
+   },
+   "properties": {
+    "OVERHEAT_REDUCTION": 1.17,
+    "AIM_STABILITY": 1.35
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "tree-dng:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 806000,
+    "req": {
+     "type": "areaCards",
+     "area": "tree-dng",
+     "name": "Grand Krys'kajo"
+    },
+    "set": "area:tree-dng",
+    "minLevel": 62
+   },
+   "name": {
+    "en_US": "Rootcrystal Plate",
+    "de_DE": "Rootcrystal Plate",
+    "fr_FR": "Rootcrystal Plate",
+    "zh_CN": "Rootcrystal Plate",
+    "zh_TW": "Rootcrystal Plate",
+    "ja_JP": "Rootcrystal Plate",
+    "ko_KR": "Rootcrystal Plate"
+   },
+   "description": {
+    "en_US": "Crystal grown through ancient roots.",
+    "de_DE": "Crystal grown through ancient roots.",
+    "fr_FR": "Crystal grown through ancient roots.",
+    "zh_CN": "Crystal grown through ancient roots.",
+    "zh_TW": "Crystal grown through ancient roots.",
+    "ja_JP": "Crystal grown through ancient roots.",
+    "ko_KR": "Crystal grown through ancient roots."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 4,
+   "level": 62,
+   "cost": 806,
+   "order": 650,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 1104,
+    "defense": 39,
+    "focus": 56
+   },
+   "properties": {
+    "ITEM_BOOST": 1.17,
+    "COND_EFFECT_ALL": 1.23
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "tree-dng:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 806000,
+    "req": {
+     "type": "areaChests",
+     "area": "tree-dng",
+     "name": "Grand Krys'kajo"
+    },
+    "set": "area:tree-dng",
+    "minLevel": 62
+   },
+   "name": {
+    "en_US": "Rootcrystal Boots",
+    "de_DE": "Rootcrystal Boots",
+    "fr_FR": "Rootcrystal Boots",
+    "zh_CN": "Rootcrystal Boots",
+    "zh_TW": "Rootcrystal Boots",
+    "ja_JP": "Rootcrystal Boots",
+    "ko_KR": "Rootcrystal Boots"
+   },
+   "description": {
+    "en_US": "Crystal grown through ancient roots.",
+    "de_DE": "Crystal grown through ancient roots.",
+    "fr_FR": "Crystal grown through ancient roots.",
+    "zh_CN": "Crystal grown through ancient roots.",
+    "zh_TW": "Crystal grown through ancient roots.",
+    "ja_JP": "Crystal grown through ancient roots.",
+    "ko_KR": "Crystal grown through ancient roots."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 4,
+   "level": 62,
+   "cost": 806,
+   "order": 651,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 1104,
+    "defense": 37,
+    "focus": 56
+   },
+   "properties": {
+    "SP_REGEN": 1.12,
+    "DASH_INVINC": 1.23
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "arid:arm",
+   "wdnShop": {
+    "page": "gear",
+    "price": 884000,
+    "req": {
+     "type": "areaStars",
+     "area": "arid",
+     "name": "Vermillion Wastes"
+    },
+    "set": "area:arid",
+    "minLevel": 68
+   },
+   "name": {
+    "en_US": "Vermillion Edge",
+    "de_DE": "Vermillion Edge",
+    "fr_FR": "Vermillion Edge",
+    "zh_CN": "Vermillion Edge",
+    "zh_TW": "Vermillion Edge",
+    "ja_JP": "Vermillion Edge",
+    "ko_KR": "Vermillion Edge"
+   },
+   "description": {
+    "en_US": "From the end of the world, where the sand is red.",
+    "de_DE": "From the end of the world, where the sand is red.",
+    "fr_FR": "From the end of the world, where the sand is red.",
+    "zh_CN": "From the end of the world, where the sand is red.",
+    "zh_TW": "From the end of the world, where the sand is red.",
+    "ja_JP": "From the end of the world, where the sand is red.",
+    "ko_KR": "From the end of the world, where the sand is red."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 4,
+   "level": 68,
+   "cost": 884,
+   "order": 672,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 421,
+    "attack": 152,
+    "defense": 65
+   },
+   "properties": {
+    "SPIKE_DMG": 1.3,
+    "CROSS_COUNTER": 1.24
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "arid:head",
+   "wdnShop": {
+    "page": "gear",
+    "price": 884000,
+    "req": {
+     "type": "areaOrbs",
+     "area": "arid",
+     "name": "Vermillion Wastes"
+    },
+    "set": "area:arid",
+    "minLevel": 68
+   },
+   "name": {
+    "en_US": "Vermillion Mask",
+    "de_DE": "Vermillion Mask",
+    "fr_FR": "Vermillion Mask",
+    "zh_CN": "Vermillion Mask",
+    "zh_TW": "Vermillion Mask",
+    "ja_JP": "Vermillion Mask",
+    "ko_KR": "Vermillion Mask"
+   },
+   "description": {
+    "en_US": "From the end of the world, where the sand is red.",
+    "de_DE": "From the end of the world, where the sand is red.",
+    "fr_FR": "From the end of the world, where the sand is red.",
+    "zh_CN": "From the end of the world, where the sand is red.",
+    "zh_TW": "From the end of the world, where the sand is red.",
+    "ja_JP": "From the end of the world, where the sand is red.",
+    "ko_KR": "From the end of the world, where the sand is red."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 4,
+   "level": 68,
+   "cost": 884,
+   "order": 673,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 224,
+    "defense": 112,
+    "focus": 90
+   },
+   "properties": {
+    "MONEY_PLUS": 1.18,
+    "CRITICAL_DMG": 1.24
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "arid:torso",
+   "wdnShop": {
+    "page": "gear",
+    "price": 884000,
+    "req": {
+     "type": "areaCards",
+     "area": "arid",
+     "name": "Vermillion Wastes"
+    },
+    "set": "area:arid",
+    "minLevel": 68
+   },
+   "name": {
+    "en_US": "Vermillion Duster",
+    "de_DE": "Vermillion Duster",
+    "fr_FR": "Vermillion Duster",
+    "zh_CN": "Vermillion Duster",
+    "zh_TW": "Vermillion Duster",
+    "ja_JP": "Vermillion Duster",
+    "ko_KR": "Vermillion Duster"
+   },
+   "description": {
+    "en_US": "From the end of the world, where the sand is red.",
+    "de_DE": "From the end of the world, where the sand is red.",
+    "fr_FR": "From the end of the world, where the sand is red.",
+    "zh_CN": "From the end of the world, where the sand is red.",
+    "zh_TW": "From the end of the world, where the sand is red.",
+    "ja_JP": "From the end of the world, where the sand is red.",
+    "ko_KR": "From the end of the world, where the sand is red."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 4,
+   "level": 68,
+   "cost": 884,
+   "order": 674,
+   "params": {
+    "elemFactor": [
+     1.15,
+     1,
+     1,
+     1
+    ],
+    "hp": 842,
+    "attack": 67,
+    "defense": 95
+   },
+   "properties": {
+    "OVERHEAT_REDUCTION": 1.24,
+    "HP_REGEN": 1.24
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "arid:feet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 884000,
+    "req": {
+     "type": "areaChests",
+     "area": "arid",
+     "name": "Vermillion Wastes"
+    },
+    "set": "area:arid",
+    "minLevel": 68
+   },
+   "name": {
+    "en_US": "Vermillion Walkers",
+    "de_DE": "Vermillion Walkers",
+    "fr_FR": "Vermillion Walkers",
+    "zh_CN": "Vermillion Walkers",
+    "zh_TW": "Vermillion Walkers",
+    "ja_JP": "Vermillion Walkers",
+    "ko_KR": "Vermillion Walkers"
+   },
+   "description": {
+    "en_US": "From the end of the world, where the sand is red.",
+    "de_DE": "From the end of the world, where the sand is red.",
+    "fr_FR": "From the end of the world, where the sand is red.",
+    "zh_CN": "From the end of the world, where the sand is red.",
+    "zh_TW": "From the end of the world, where the sand is red.",
+    "ja_JP": "From the end of the world, where the sand is red.",
+    "ko_KR": "From the end of the world, where the sand is red."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 4,
+   "level": 68,
+   "cost": 884,
+   "order": 675,
+   "params": {
+    "elemFactor": [
+     1.15,
+     1,
+     1,
+     1
+    ],
+    "hp": 898,
+    "attack": 31,
+    "defense": 31,
+    "focus": 87
+   },
+   "properties": {
+    "GUARD_SP": 1.18,
+    "AIMING_MOVEMENT": 1.24
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": false
+  },
+  {
+   "wdnKey": "smithHammer",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Apprentice Smith",
+    "set": "smith"
+   },
+   "name": {
+    "en_US": "Forgemaster Hammer",
+    "de_DE": "Forgemaster Hammer",
+    "fr_FR": "Forgemaster Hammer",
+    "zh_CN": "Forgemaster Hammer",
+    "zh_TW": "Forgemaster Hammer",
+    "ja_JP": "Forgemaster Hammer",
+    "ko_KR": "Forgemaster Hammer"
+   },
+   "description": {
+    "en_US": "Heavier than it looks. Every swing rings like an anvil.",
+    "de_DE": "Heavier than it looks. Every swing rings like an anvil.",
+    "fr_FR": "Heavier than it looks. Every swing rings like an anvil.",
+    "zh_CN": "Heavier than it looks. Every swing rings like an anvil.",
+    "zh_TW": "Heavier than it looks. Every swing rings like an anvil.",
+    "ja_JP": "Heavier than it looks. Every swing rings like an anvil.",
+    "ko_KR": "Heavier than it looks. Every swing rings like an anvil."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 360,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 330,
+    "attack": 119,
+    "defense": 51
+   },
+   "properties": {
+    "BREAK_DMG": 1.35,
+    "STUN_THRESHOLD": 1.03
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "smithGoggles",
+   "wdnShop": {
+    "page": "gear",
+    "price": 520000,
+    "medal": "Hidden Depths",
+    "set": "smith"
+   },
+   "name": {
+    "en_US": "Soot Goggles",
+    "de_DE": "Soot Goggles",
+    "fr_FR": "Soot Goggles",
+    "zh_CN": "Soot Goggles",
+    "zh_TW": "Soot Goggles",
+    "ja_JP": "Soot Goggles",
+    "ko_KR": "Soot Goggles"
+   },
+   "description": {
+    "en_US": "Scratched lenses that have stared into a thousand sparks.",
+    "de_DE": "Scratched lenses that have stared into a thousand sparks.",
+    "fr_FR": "Scratched lenses that have stared into a thousand sparks.",
+    "zh_CN": "Scratched lenses that have stared into a thousand sparks.",
+    "zh_TW": "Scratched lenses that have stared into a thousand sparks.",
+    "ja_JP": "Scratched lenses that have stared into a thousand sparks.",
+    "ko_KR": "Scratched lenses that have stared into a thousand sparks."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 2,
+   "level": 60,
+   "cost": 52000,
+   "order": 361,
+   "params": {
+    "elemFactor": [
+     1.15,
+     1,
+     1,
+     1
+    ],
+    "defense": 89,
+    "focus": 69
+   },
+   "properties": {
+    "OVERHEAT_REDUCTION": 1.3,
+    "GUARD_SP": 1.15
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "smithApron",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Master Smith",
+    "set": "smith"
+   },
+   "name": {
+    "en_US": "Scorched Apron",
+    "de_DE": "Scorched Apron",
+    "fr_FR": "Scorched Apron",
+    "zh_CN": "Scorched Apron",
+    "zh_TW": "Scorched Apron",
+    "ja_JP": "Scorched Apron",
+    "ko_KR": "Scorched Apron"
+   },
+   "description": {
+    "en_US": "Scorched, patched and impossibly tough.",
+    "de_DE": "Scorched, patched and impossibly tough.",
+    "fr_FR": "Scorched, patched and impossibly tough.",
+    "zh_CN": "Scorched, patched and impossibly tough.",
+    "zh_TW": "Scorched, patched and impossibly tough.",
+    "ja_JP": "Scorched, patched and impossibly tough.",
+    "ko_KR": "Scorched, patched and impossibly tough."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 362,
+   "params": {
+    "elemFactor": [
+     1.15,
+     1,
+     1,
+     1
+    ],
+    "hp": 726,
+    "defense": 119
+   },
+   "properties": {
+    "GUARD_STRENGTH": 1.3,
+    "ITEM_GUARD": 2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "smithBoots",
+   "wdnShop": {
+    "page": "gear",
+    "price": 520000,
+    "medal": "Forged Lea",
+    "set": "smith"
+   },
+   "name": {
+    "en_US": "Ironshod Boots",
+    "de_DE": "Ironshod Boots",
+    "fr_FR": "Ironshod Boots",
+    "zh_CN": "Ironshod Boots",
+    "zh_TW": "Ironshod Boots",
+    "ja_JP": "Ironshod Boots",
+    "ko_KR": "Ironshod Boots"
+   },
+   "description": {
+    "en_US": "Iron-capped and steel-soled. Kick with care.",
+    "de_DE": "Iron-capped and steel-soled. Kick with care.",
+    "fr_FR": "Iron-capped and steel-soled. Kick with care.",
+    "zh_CN": "Iron-capped and steel-soled. Kick with care.",
+    "zh_TW": "Iron-capped and steel-soled. Kick with care.",
+    "ja_JP": "Iron-capped and steel-soled. Kick with care.",
+    "ko_KR": "Iron-capped and steel-soled. Kick with care."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 2,
+   "level": 60,
+   "cost": 52000,
+   "order": 363,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 728,
+    "defense": 69,
+    "focus": 35
+   },
+   "properties": {
+    "STUN_THRESHOLD": 1.04,
+    "SPIKE_DMG": 1.3
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "weaveGloves",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Card Welder",
+    "set": "weave"
+   },
+   "name": {
+    "en_US": "Arrowweave Gloves",
+    "de_DE": "Arrowweave Gloves",
+    "fr_FR": "Arrowweave Gloves",
+    "zh_CN": "Arrowweave Gloves",
+    "zh_TW": "Arrowweave Gloves",
+    "ja_JP": "Arrowweave Gloves",
+    "ko_KR": "Arrowweave Gloves"
+   },
+   "description": {
+    "en_US": "Stitched from the arrows of fused cards. Every finger points somewhere.",
+    "de_DE": "Stitched from the arrows of fused cards. Every finger points somewhere.",
+    "fr_FR": "Stitched from the arrows of fused cards. Every finger points somewhere.",
+    "zh_CN": "Stitched from the arrows of fused cards. Every finger points somewhere.",
+    "zh_TW": "Stitched from the arrows of fused cards. Every finger points somewhere.",
+    "ja_JP": "Stitched from the arrows of fused cards. Every finger points somewhere.",
+    "ko_KR": "Stitched from the arrows of fused cards. Every finger points somewhere."
+   },
+   "type": "EQUIP",
+   "equipType": "ARM",
+   "icon": "item-sword",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 364,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "attack": 99,
+    "focus": 101
+   },
+   "properties": {
+    "CRITICAL_DMG": 1.4,
+    "AIM_SPEED": 1.15
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "weaveCirclet",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Shine Maker",
+    "set": "weave"
+   },
+   "name": {
+    "en_US": "Fusion Circlet",
+    "de_DE": "Fusion Circlet",
+    "fr_FR": "Fusion Circlet",
+    "zh_CN": "Fusion Circlet",
+    "zh_TW": "Fusion Circlet",
+    "ja_JP": "Fusion Circlet",
+    "ko_KR": "Fusion Circlet"
+   },
+   "description": {
+    "en_US": "A band of polished foil that never quite stops glittering.",
+    "de_DE": "A band of polished foil that never quite stops glittering.",
+    "fr_FR": "A band of polished foil that never quite stops glittering.",
+    "zh_CN": "A band of polished foil that never quite stops glittering.",
+    "zh_TW": "A band of polished foil that never quite stops glittering.",
+    "ja_JP": "A band of polished foil that never quite stops glittering.",
+    "ko_KR": "A band of polished foil that never quite stops glittering."
+   },
+   "type": "EQUIP",
+   "equipType": "HEAD",
+   "icon": "item-helm",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 365,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "defense": 9,
+    "focus": 185
+   },
+   "properties": {
+    "XP_PLUS": 1.15,
+    "CRITICAL_DMG": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "weaveCoat",
+   "wdnShop": {
+    "page": "gear",
+    "price": 520000,
+    "medal": "Perfect Hand",
+    "set": "weave"
+   },
+   "name": {
+    "en_US": "Foil-Lined Coat",
+    "de_DE": "Foil-Lined Coat",
+    "fr_FR": "Foil-Lined Coat",
+    "zh_CN": "Foil-Lined Coat",
+    "zh_TW": "Foil-Lined Coat",
+    "ja_JP": "Foil-Lined Coat",
+    "ko_KR": "Foil-Lined Coat"
+   },
+   "description": {
+    "en_US": "Lined with spare card foil. Catches the light, and the odd attack.",
+    "de_DE": "Lined with spare card foil. Catches the light, and the odd attack.",
+    "fr_FR": "Lined with spare card foil. Catches the light, and the odd attack.",
+    "zh_CN": "Lined with spare card foil. Catches the light, and the odd attack.",
+    "zh_TW": "Lined with spare card foil. Catches the light, and the odd attack.",
+    "ja_JP": "Lined with spare card foil. Catches the light, and the odd attack.",
+    "ko_KR": "Lined with spare card foil. Catches the light, and the odd attack."
+   },
+   "type": "EQUIP",
+   "equipType": "TORSO",
+   "icon": "item-belt",
+   "rarity": 2,
+   "level": 60,
+   "cost": 52000,
+   "order": 366,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 936,
+    "defense": 33,
+    "focus": 48
+   },
+   "properties": {
+    "DASH_INVINC": 1.2,
+    "COND_EFFECT_ALL": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  },
+  {
+   "wdnKey": "weaveSteps",
+   "wdnShop": {
+    "page": "gear",
+    "price": 720000,
+    "medal": "Card Welder",
+    "set": "weave"
+   },
+   "name": {
+    "en_US": "Eight-Way Steps",
+    "de_DE": "Eight-Way Steps",
+    "fr_FR": "Eight-Way Steps",
+    "zh_CN": "Eight-Way Steps",
+    "zh_TW": "Eight-Way Steps",
+    "ja_JP": "Eight-Way Steps",
+    "ko_KR": "Eight-Way Steps"
+   },
+   "description": {
+    "en_US": "Built to step in all eight directions at once. Almost.",
+    "de_DE": "Built to step in all eight directions at once. Almost.",
+    "fr_FR": "Built to step in all eight directions at once. Almost.",
+    "zh_CN": "Built to step in all eight directions at once. Almost.",
+    "zh_TW": "Built to step in all eight directions at once. Almost.",
+    "ja_JP": "Built to step in all eight directions at once. Almost.",
+    "ko_KR": "Built to step in all eight directions at once. Almost."
+   },
+   "type": "EQUIP",
+   "equipType": "FEET",
+   "icon": "item-shoe",
+   "rarity": 3,
+   "level": 60,
+   "cost": 72000,
+   "order": 367,
+   "params": {
+    "elemFactor": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "hp": 704,
+    "attack": 24,
+    "defense": 24,
+    "focus": 68
+   },
+   "properties": {
+    "DASH_STEP": 2,
+    "AIMING_MOVEMENT": 1.2
+   },
+   "effect": {
+    "sheet": "",
+    "name": null
+   },
+   "noTrack": true,
+   "noCount": true,
+   "isScalable": true
+  }
+ ]
+}

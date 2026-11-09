@@ -1,0 +1,1493 @@
+{
+ "DOCTYPE": "PROP_SHEET",
+ "props": [
+  {
+   "name": "orbTrader",
+   "size": {
+    "x": 16,
+    "y": 8,
+    "z": 24
+   },
+   "collType": "BLOCK",
+   "fix": {
+    "gfx": "media/map/wdn-orb-trader.png",
+    "x": 0,
+    "y": 0,
+    "w": 20,
+    "h": 34,
+    "flipX": false,
+    "shape": "Y_FLAT"
+   }
+  },
+  {
+   "name": "collector",
+   "size": {
+    "x": 14,
+    "y": 8,
+    "z": 24
+   },
+   "collType": "BLOCK",
+   "fix": {
+    "gfx": "media/map/wdn-collector.png",
+    "x": 0,
+    "y": 0,
+    "w": 18,
+    "h": 34,
+    "flipX": false,
+    "shape": "Y_FLAT"
+   }
+  },
+  {
+   "name": "rival",
+   "size": {
+    "x": 14,
+    "y": 8,
+    "z": 24
+   },
+   "collType": "BLOCK",
+   "fix": {
+    "gfx": "media/map/wdn-rival.png",
+    "x": 0,
+    "y": 0,
+    "w": 18,
+    "h": 34,
+    "flipX": false,
+    "shape": "Y_FLAT"
+   }
+  },
+  {
+   "name": "shrine",
+   "size": {
+    "x": 20,
+    "y": 8,
+    "z": 16
+   },
+   "collType": "BLOCK",
+   "fix": {
+    "gfx": "media/map/wdn-shrine.png",
+    "x": 0,
+    "y": 0,
+    "w": 22,
+    "h": 34,
+    "flipX": false,
+    "shape": "Y_FLAT"
+   }
+  },
+  {
+   "name": "trophyGold",
+   "size": {
+    "x": 12,
+    "y": 8,
+    "z": 16
+   },
+   "collType": "BLOCK",
+   "fix": {
+    "gfx": "media/map/wdn-trophies.png",
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 26,
+    "flipX": false,
+    "shape": "Y_FLAT"
+   }
+  },
+  {
+   "name": "trophySilver",
+   "size": {
+    "x": 12,
+    "y": 8,
+    "z": 16
+   },
+   "collType": "BLOCK",
+   "fix": {
+    "gfx": "media/map/wdn-trophies.png",
+    "x": 16,
+    "y": 0,
+    "w": 16,
+    "h": 26,
+    "flipX": false,
+    "shape": "Y_FLAT"
+   }
+  },
+  {
+   "name": "trophyBronze",
+   "size": {
+    "x": 12,
+    "y": 8,
+    "z": 16
+   },
+   "collType": "BLOCK",
+   "fix": {
+    "gfx": "media/map/wdn-trophies.png",
+    "x": 32,
+    "y": 0,
+    "w": 16,
+    "h": 26,
+    "flipX": false,
+    "shape": "Y_FLAT"
+   }
+  },
+  {
+   "name": "trophyRift",
+   "size": {
+    "x": 12,
+    "y": 8,
+    "z": 16
+   },
+   "collType": "BLOCK",
+   "fix": {
+    "gfx": "media/map/wdn-trophies.png",
+    "x": 48,
+    "y": 0,
+    "w": 16,
+    "h": 26,
+    "flipX": false,
+    "shape": "Y_FLAT"
+   }
+  },
+  {
+   "name": "trophyPaw",
+   "size": {
+    "x": 12,
+    "y": 8,
+    "z": 16
+   },
+   "collType": "BLOCK",
+   "fix": {
+    "gfx": "media/map/wdn-trophies.png",
+    "x": 64,
+    "y": 0,
+    "w": 16,
+    "h": 26,
+    "flipX": false,
+    "shape": "Y_FLAT"
+   }
+  },
+  {
+   "name": "window",
+   "size": {
+    "x": 32,
+    "y": 4,
+    "z": 48
+   },
+   "collType": "NONE",
+   "anims": {
+    "sheet": {
+     "src": "media/map/wdn-window.png",
+     "width": 32,
+     "height": 48,
+     "offX": 0,
+     "offY": 0,
+     "xCount": 24
+    },
+    "SUB": [
+     {
+      "name": "day",
+      "time": 0.45,
+      "frames": [
+       0,
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21
+      ],
+      "repeat": true
+     },
+     {
+      "name": "dusk",
+      "time": 0.45,
+      "frames": [
+       24,
+       25,
+       26,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45
+      ],
+      "repeat": true
+     },
+     {
+      "name": "night",
+      "time": 0.5,
+      "frames": [
+       48,
+       49,
+       50,
+       51
+      ],
+      "repeat": true
+     },
+     {
+      "name": "cloudy",
+      "time": 0.4,
+      "frames": [
+       72,
+       73,
+       74,
+       75,
+       76,
+       77,
+       78,
+       79,
+       80,
+       81,
+       82,
+       83,
+       84,
+       85,
+       86,
+       87,
+       88,
+       89,
+       90,
+       91,
+       92,
+       93
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rain",
+      "time": 0.08,
+      "frames": [
+       96,
+       97,
+       98,
+       99
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rainNight",
+      "time": 0.08,
+      "frames": [
+       120,
+       121,
+       122,
+       123
+      ],
+      "repeat": true
+     },
+     {
+      "name": "storm",
+      "time": 0.12,
+      "frames": [
+       144,
+       145,
+       146,
+       147,
+       148,
+       149,
+       150,
+       151
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snow",
+      "time": 0.3,
+      "frames": [
+       168,
+       169,
+       170,
+       171
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snowNight",
+      "time": 0.3,
+      "frames": [
+       192,
+       193,
+       194,
+       195
+      ],
+      "repeat": true
+     },
+     {
+      "name": "fog",
+      "time": 0.5,
+      "frames": [
+       216,
+       217,
+       218,
+       219
+      ],
+      "repeat": true
+     },
+     {
+      "name": "sand",
+      "time": 0.1,
+      "frames": [
+       240,
+       241,
+       242,
+       243
+      ],
+      "repeat": true
+     },
+     {
+      "name": "blood",
+      "time": 0.5,
+      "frames": [
+       264,
+       265,
+       266,
+       267
+      ],
+      "repeat": true
+     },
+     {
+      "name": "eclipse",
+      "time": 0.5,
+      "frames": [
+       288,
+       289,
+       290,
+       291
+      ],
+      "repeat": true
+     }
+    ]
+   }
+  },
+  {
+   "name": "upwin1",
+   "size": {
+    "x": 20,
+    "y": 4,
+    "z": 38
+   },
+   "collType": "NONE",
+   "anims": {
+    "sheet": {
+     "src": "media/map/wdn-upwin-1.png",
+     "width": 20,
+     "height": 38,
+     "offX": 0,
+     "offY": 0,
+     "xCount": 8
+    },
+    "SUB": [
+     {
+      "name": "day",
+      "time": 0.6,
+      "frames": [
+       0
+      ],
+      "repeat": true
+     },
+     {
+      "name": "dusk",
+      "time": 0.6,
+      "frames": [
+       8
+      ],
+      "repeat": true
+     },
+     {
+      "name": "night",
+      "time": 0.6,
+      "frames": [
+       16
+      ],
+      "repeat": true
+     },
+     {
+      "name": "cloudy",
+      "time": 0.6,
+      "frames": [
+       24
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rain",
+      "time": 0.12,
+      "frames": [
+       32,
+       33,
+       34,
+       35
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rainNight",
+      "time": 0.12,
+      "frames": [
+       40,
+       41,
+       42,
+       43
+      ],
+      "repeat": true
+     },
+     {
+      "name": "storm",
+      "time": 0.12,
+      "frames": [
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snow",
+      "time": 0.3,
+      "frames": [
+       56,
+       57,
+       58,
+       59
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snowNight",
+      "time": 0.3,
+      "frames": [
+       64,
+       65,
+       66,
+       67
+      ],
+      "repeat": true
+     },
+     {
+      "name": "fog",
+      "time": 0.6,
+      "frames": [
+       72
+      ],
+      "repeat": true
+     },
+     {
+      "name": "sand",
+      "time": 0.6,
+      "frames": [
+       80
+      ],
+      "repeat": true
+     },
+     {
+      "name": "blood",
+      "time": 0.6,
+      "frames": [
+       88
+      ],
+      "repeat": true
+     },
+     {
+      "name": "eclipse",
+      "time": 0.6,
+      "frames": [
+       96
+      ],
+      "repeat": true
+     }
+    ]
+   }
+  },
+  {
+   "name": "upwin2",
+   "size": {
+    "x": 20,
+    "y": 4,
+    "z": 38
+   },
+   "collType": "NONE",
+   "anims": {
+    "sheet": {
+     "src": "media/map/wdn-upwin-2.png",
+     "width": 20,
+     "height": 38,
+     "offX": 0,
+     "offY": 0,
+     "xCount": 8
+    },
+    "SUB": [
+     {
+      "name": "day",
+      "time": 0.6,
+      "frames": [
+       0
+      ],
+      "repeat": true
+     },
+     {
+      "name": "dusk",
+      "time": 0.6,
+      "frames": [
+       8
+      ],
+      "repeat": true
+     },
+     {
+      "name": "night",
+      "time": 0.6,
+      "frames": [
+       16
+      ],
+      "repeat": true
+     },
+     {
+      "name": "cloudy",
+      "time": 0.6,
+      "frames": [
+       24
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rain",
+      "time": 0.12,
+      "frames": [
+       32,
+       33,
+       34,
+       35
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rainNight",
+      "time": 0.12,
+      "frames": [
+       40,
+       41,
+       42,
+       43
+      ],
+      "repeat": true
+     },
+     {
+      "name": "storm",
+      "time": 0.12,
+      "frames": [
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snow",
+      "time": 0.3,
+      "frames": [
+       56,
+       57,
+       58,
+       59
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snowNight",
+      "time": 0.3,
+      "frames": [
+       64,
+       65,
+       66,
+       67
+      ],
+      "repeat": true
+     },
+     {
+      "name": "fog",
+      "time": 0.6,
+      "frames": [
+       72
+      ],
+      "repeat": true
+     },
+     {
+      "name": "sand",
+      "time": 0.6,
+      "frames": [
+       80
+      ],
+      "repeat": true
+     },
+     {
+      "name": "blood",
+      "time": 0.6,
+      "frames": [
+       88
+      ],
+      "repeat": true
+     },
+     {
+      "name": "eclipse",
+      "time": 0.6,
+      "frames": [
+       96
+      ],
+      "repeat": true
+     }
+    ]
+   }
+  },
+  {
+   "name": "upwin3",
+   "size": {
+    "x": 20,
+    "y": 4,
+    "z": 38
+   },
+   "collType": "NONE",
+   "anims": {
+    "sheet": {
+     "src": "media/map/wdn-upwin-3.png",
+     "width": 20,
+     "height": 38,
+     "offX": 0,
+     "offY": 0,
+     "xCount": 8
+    },
+    "SUB": [
+     {
+      "name": "day",
+      "time": 0.6,
+      "frames": [
+       0
+      ],
+      "repeat": true
+     },
+     {
+      "name": "dusk",
+      "time": 0.6,
+      "frames": [
+       8
+      ],
+      "repeat": true
+     },
+     {
+      "name": "night",
+      "time": 0.6,
+      "frames": [
+       16
+      ],
+      "repeat": true
+     },
+     {
+      "name": "cloudy",
+      "time": 0.6,
+      "frames": [
+       24
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rain",
+      "time": 0.12,
+      "frames": [
+       32,
+       33,
+       34,
+       35
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rainNight",
+      "time": 0.12,
+      "frames": [
+       40,
+       41,
+       42,
+       43
+      ],
+      "repeat": true
+     },
+     {
+      "name": "storm",
+      "time": 0.12,
+      "frames": [
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snow",
+      "time": 0.3,
+      "frames": [
+       56,
+       57,
+       58,
+       59
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snowNight",
+      "time": 0.3,
+      "frames": [
+       64,
+       65,
+       66,
+       67
+      ],
+      "repeat": true
+     },
+     {
+      "name": "fog",
+      "time": 0.6,
+      "frames": [
+       72
+      ],
+      "repeat": true
+     },
+     {
+      "name": "sand",
+      "time": 0.6,
+      "frames": [
+       80
+      ],
+      "repeat": true
+     },
+     {
+      "name": "blood",
+      "time": 0.6,
+      "frames": [
+       88
+      ],
+      "repeat": true
+     },
+     {
+      "name": "eclipse",
+      "time": 0.6,
+      "frames": [
+       96
+      ],
+      "repeat": true
+     }
+    ]
+   }
+  },
+  {
+   "name": "upwin4",
+   "size": {
+    "x": 19,
+    "y": 4,
+    "z": 21
+   },
+   "collType": "NONE",
+   "anims": {
+    "sheet": {
+     "src": "media/map/wdn-upwin-4.png",
+     "width": 19,
+     "height": 21,
+     "offX": 0,
+     "offY": 0,
+     "xCount": 8
+    },
+    "SUB": [
+     {
+      "name": "day",
+      "time": 0.6,
+      "frames": [
+       0
+      ],
+      "repeat": true
+     },
+     {
+      "name": "dusk",
+      "time": 0.6,
+      "frames": [
+       8
+      ],
+      "repeat": true
+     },
+     {
+      "name": "night",
+      "time": 0.6,
+      "frames": [
+       16
+      ],
+      "repeat": true
+     },
+     {
+      "name": "cloudy",
+      "time": 0.6,
+      "frames": [
+       24
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rain",
+      "time": 0.12,
+      "frames": [
+       32,
+       33,
+       34,
+       35
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rainNight",
+      "time": 0.12,
+      "frames": [
+       40,
+       41,
+       42,
+       43
+      ],
+      "repeat": true
+     },
+     {
+      "name": "storm",
+      "time": 0.12,
+      "frames": [
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snow",
+      "time": 0.3,
+      "frames": [
+       56,
+       57,
+       58,
+       59
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snowNight",
+      "time": 0.3,
+      "frames": [
+       64,
+       65,
+       66,
+       67
+      ],
+      "repeat": true
+     },
+     {
+      "name": "fog",
+      "time": 0.6,
+      "frames": [
+       72
+      ],
+      "repeat": true
+     },
+     {
+      "name": "sand",
+      "time": 0.6,
+      "frames": [
+       80
+      ],
+      "repeat": true
+     },
+     {
+      "name": "blood",
+      "time": 0.6,
+      "frames": [
+       88
+      ],
+      "repeat": true
+     },
+     {
+      "name": "eclipse",
+      "time": 0.6,
+      "frames": [
+       96
+      ],
+      "repeat": true
+     }
+    ]
+   }
+  },
+  {
+   "name": "upwin5",
+   "size": {
+    "x": 19,
+    "y": 4,
+    "z": 20
+   },
+   "collType": "NONE",
+   "anims": {
+    "sheet": {
+     "src": "media/map/wdn-upwin-5.png",
+     "width": 19,
+     "height": 20,
+     "offX": 0,
+     "offY": 0,
+     "xCount": 8
+    },
+    "SUB": [
+     {
+      "name": "day",
+      "time": 0.6,
+      "frames": [
+       0
+      ],
+      "repeat": true
+     },
+     {
+      "name": "dusk",
+      "time": 0.6,
+      "frames": [
+       8
+      ],
+      "repeat": true
+     },
+     {
+      "name": "night",
+      "time": 0.6,
+      "frames": [
+       16
+      ],
+      "repeat": true
+     },
+     {
+      "name": "cloudy",
+      "time": 0.6,
+      "frames": [
+       24
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rain",
+      "time": 0.12,
+      "frames": [
+       32,
+       33,
+       34,
+       35
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rainNight",
+      "time": 0.12,
+      "frames": [
+       40,
+       41,
+       42,
+       43
+      ],
+      "repeat": true
+     },
+     {
+      "name": "storm",
+      "time": 0.12,
+      "frames": [
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snow",
+      "time": 0.3,
+      "frames": [
+       56,
+       57,
+       58,
+       59
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snowNight",
+      "time": 0.3,
+      "frames": [
+       64,
+       65,
+       66,
+       67
+      ],
+      "repeat": true
+     },
+     {
+      "name": "fog",
+      "time": 0.6,
+      "frames": [
+       72
+      ],
+      "repeat": true
+     },
+     {
+      "name": "sand",
+      "time": 0.6,
+      "frames": [
+       80
+      ],
+      "repeat": true
+     },
+     {
+      "name": "blood",
+      "time": 0.6,
+      "frames": [
+       88
+      ],
+      "repeat": true
+     },
+     {
+      "name": "eclipse",
+      "time": 0.6,
+      "frames": [
+       96
+      ],
+      "repeat": true
+     }
+    ]
+   }
+  },
+  {
+   "name": "upwin6",
+   "size": {
+    "x": 19,
+    "y": 4,
+    "z": 20
+   },
+   "collType": "NONE",
+   "anims": {
+    "sheet": {
+     "src": "media/map/wdn-upwin-6.png",
+     "width": 19,
+     "height": 20,
+     "offX": 0,
+     "offY": 0,
+     "xCount": 8
+    },
+    "SUB": [
+     {
+      "name": "day",
+      "time": 0.6,
+      "frames": [
+       0
+      ],
+      "repeat": true
+     },
+     {
+      "name": "dusk",
+      "time": 0.6,
+      "frames": [
+       8
+      ],
+      "repeat": true
+     },
+     {
+      "name": "night",
+      "time": 0.6,
+      "frames": [
+       16
+      ],
+      "repeat": true
+     },
+     {
+      "name": "cloudy",
+      "time": 0.6,
+      "frames": [
+       24
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rain",
+      "time": 0.12,
+      "frames": [
+       32,
+       33,
+       34,
+       35
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rainNight",
+      "time": 0.12,
+      "frames": [
+       40,
+       41,
+       42,
+       43
+      ],
+      "repeat": true
+     },
+     {
+      "name": "storm",
+      "time": 0.12,
+      "frames": [
+       48,
+       49,
+       50,
+       51,
+       52,
+       53,
+       54,
+       55
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snow",
+      "time": 0.3,
+      "frames": [
+       56,
+       57,
+       58,
+       59
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snowNight",
+      "time": 0.3,
+      "frames": [
+       64,
+       65,
+       66,
+       67
+      ],
+      "repeat": true
+     },
+     {
+      "name": "fog",
+      "time": 0.6,
+      "frames": [
+       72
+      ],
+      "repeat": true
+     },
+     {
+      "name": "sand",
+      "time": 0.6,
+      "frames": [
+       80
+      ],
+      "repeat": true
+     },
+     {
+      "name": "blood",
+      "time": 0.6,
+      "frames": [
+       88
+      ],
+      "repeat": true
+     },
+     {
+      "name": "eclipse",
+      "time": 0.6,
+      "frames": [
+       96
+      ],
+      "repeat": true
+     }
+    ]
+   }
+  },
+  {
+   "name": "window2",
+   "size": {
+    "x": 32,
+    "y": 4,
+    "z": 48
+   },
+   "collType": "NONE",
+   "anims": {
+    "sheet": {
+     "src": "media/map/wdn-window2.png",
+     "width": 32,
+     "height": 48,
+     "offX": 0,
+     "offY": 0,
+     "xCount": 24
+    },
+    "SUB": [
+     {
+      "name": "day",
+      "time": 0.45,
+      "frames": [
+       0,
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21
+      ],
+      "repeat": true
+     },
+     {
+      "name": "dusk",
+      "time": 0.45,
+      "frames": [
+       24,
+       25,
+       26,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       40,
+       41,
+       42,
+       43,
+       44,
+       45
+      ],
+      "repeat": true
+     },
+     {
+      "name": "night",
+      "time": 0.5,
+      "frames": [
+       48,
+       49,
+       50,
+       51
+      ],
+      "repeat": true
+     },
+     {
+      "name": "cloudy",
+      "time": 0.4,
+      "frames": [
+       72,
+       73,
+       74,
+       75,
+       76,
+       77,
+       78,
+       79,
+       80,
+       81,
+       82,
+       83,
+       84,
+       85,
+       86,
+       87,
+       88,
+       89,
+       90,
+       91,
+       92,
+       93
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rain",
+      "time": 0.08,
+      "frames": [
+       96,
+       97,
+       98,
+       99
+      ],
+      "repeat": true
+     },
+     {
+      "name": "rainNight",
+      "time": 0.08,
+      "frames": [
+       120,
+       121,
+       122,
+       123
+      ],
+      "repeat": true
+     },
+     {
+      "name": "storm",
+      "time": 0.12,
+      "frames": [
+       144,
+       145,
+       146,
+       147,
+       148,
+       149,
+       150,
+       151
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snow",
+      "time": 0.3,
+      "frames": [
+       168,
+       169,
+       170,
+       171
+      ],
+      "repeat": true
+     },
+     {
+      "name": "snowNight",
+      "time": 0.3,
+      "frames": [
+       192,
+       193,
+       194,
+       195
+      ],
+      "repeat": true
+     },
+     {
+      "name": "fog",
+      "time": 0.5,
+      "frames": [
+       216,
+       217,
+       218,
+       219
+      ],
+      "repeat": true
+     },
+     {
+      "name": "sand",
+      "time": 0.1,
+      "frames": [
+       240,
+       241,
+       242,
+       243
+      ],
+      "repeat": true
+     },
+     {
+      "name": "blood",
+      "time": 0.5,
+      "frames": [
+       264,
+       265,
+       266,
+       267
+      ],
+      "repeat": true
+     },
+     {
+      "name": "eclipse",
+      "time": 0.5,
+      "frames": [
+       288,
+       289,
+       290,
+       291
+      ],
+      "repeat": true
+     }
+    ]
+   }
+  },
+  {
+   "name": "trialPillar",
+   "size": {
+    "x": 32,
+    "y": 24,
+    "z": 48
+   },
+   "collType": "BLOCK",
+   "fix": {
+    "gfx": "media/entity/objects/lmh-statues.png",
+    "x": 48,
+    "y": 72,
+    "w": 56,
+    "h": 80,
+    "flipX": false,
+    "shape": "Y_FLAT"
+   }
+  }
+ ]
+}
